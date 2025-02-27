@@ -1,0 +1,514 @@
+2025-02-14 09:50:08,904 - root - INFO - 初始化完成 - File: main.py, Line: 12, Func: main
+2025-02-14 09:50:08,905 - root - INFO - 摄像头初始化完成 - File: camera.py, Line: 9, Func: __init__
+2025-02-14 09:50:08,905 - root - INFO - 摄像头初始化完成 - File: camera.py, Line: 9, Func: __init__
+2025-02-14 09:50:09,462 - root - INFO - 创建 人脸创建器 - File: face_detector.py, Line: 8, Func: __init__
+2025-02-14 09:50:09,462 - root - INFO - 创建 人脸创建器 - File: face_detector.py, Line: 8, Func: __init__
+2025-02-14 09:50:09,462 - root - INFO - 创建 人脸创建器 - File: face_detector.py, Line: 8, Func: __init__
+2025-02-14 09:50:54,589 - root - INFO - 初始化完成 - File: main.py, Line: 12, Func: main
+2025-02-14 09:50:55,211 - root - INFO - 摄像头已创建 - File: camera.py, Line: 14, Func: create
+2025-02-14 09:50:55,211 - root - INFO - 摄像头已创建 - File: camera.py, Line: 14, Func: create
+2025-02-14 09:50:55,211 - root - INFO - 创建 人脸创建器 - File: face_detector.py, Line: 8, Func: __init__
+2025-02-14 09:50:55,211 - root - INFO - 创建 人脸创建器 - File: face_detector.py, Line: 8, Func: __init__
+2025-02-14 09:50:55,211 - root - INFO - 创建 人脸创建器 - File: face_detector.py, Line: 8, Func: __init__
+2025-02-14 10:05:26,754 - root - INFO - 初始化完成 - File: main.py, Line: 12, Func: main
+2025-02-14 10:05:27,428 - root - INFO - 摄像头已创建 - File: camera.py, Line: 14, Func: create
+2025-02-14 10:05:27,428 - root - INFO - 摄像头已创建 - File: camera.py, Line: 14, Func: create
+2025-02-14 10:05:27,428 - root - INFO - 创建 人脸创建器 - File: face_detector.py, Line: 20, Func: __init__
+2025-02-14 10:05:27,428 - root - INFO - 创建 人脸创建器 - File: face_detector.py, Line: 20, Func: __init__
+2025-02-14 10:05:27,428 - root - INFO - 创建 人脸创建器 - File: face_detector.py, Line: 20, Func: __init__
+2025-02-14 10:05:42,499 - root - INFO - 初始化完成 - File: main.py, Line: 12, Func: main
+2025-02-14 10:05:43,116 - root - INFO - 摄像头已创建 - File: camera.py, Line: 14, Func: create
+2025-02-14 10:05:43,116 - root - INFO - 摄像头已创建 - File: camera.py, Line: 14, Func: create
+2025-02-14 10:05:43,117 - root - INFO - 创建 人脸创建器 - File: face_detector.py, Line: 21, Func: __init__
+2025-02-14 10:05:43,117 - root - INFO - 创建 人脸创建器 - File: face_detector.py, Line: 21, Func: __init__
+2025-02-14 10:05:43,117 - root - INFO - 创建 人脸创建器 - File: face_detector.py, Line: 21, Func: __init__
+2025-02-14 10:06:10,245 - root - INFO - 初始化完成 - File: main.py, Line: 12, Func: main
+2025-02-14 10:06:10,784 - root - INFO - 摄像头已创建 - File: camera.py, Line: 14, Func: create
+2025-02-14 10:06:10,784 - root - INFO - 摄像头已创建 - File: camera.py, Line: 14, Func: create
+2025-02-14 10:06:10,785 - root - INFO - 创建 人脸创建器 - File: face_detector.py, Line: 21, Func: __init__
+2025-02-14 10:06:10,785 - root - INFO - 创建 人脸创建器 - File: face_detector.py, Line: 21, Func: __init__
+2025-02-14 10:06:10,785 - root - INFO - 创建 人脸创建器 - File: face_detector.py, Line: 21, Func: __init__
+2025-02-14 10:06:41,498 - root - INFO - 初始化完成 - File: main.py, Line: 12, Func: main
+2025-02-14 10:06:42,078 - root - INFO - 摄像头已创建 - File: camera.py, Line: 14, Func: create
+2025-02-14 10:06:42,078 - root - INFO - 摄像头已创建 - File: camera.py, Line: 14, Func: create
+2025-02-14 10:06:42,078 - root - INFO - 创建 人脸创建器 - File: face_detector.py, Line: 21, Func: __init__
+2025-02-14 10:06:42,078 - root - INFO - 创建 人脸创建器 - File: face_detector.py, Line: 21, Func: __init__
+2025-02-14 10:06:42,078 - root - INFO - 创建 人脸创建器 - File: face_detector.py, Line: 21, Func: __init__
+2025-02-14 10:08:40,840 - root - INFO - 初始化完成 - File: main.py, Line: 12, Func: main
+2025-02-14 10:08:41,574 - root - INFO - 摄像头已创建 - File: camera.py, Line: 14, Func: create
+2025-02-14 10:08:41,574 - root - INFO - 摄像头已创建 - File: camera.py, Line: 14, Func: create
+2025-02-14 10:08:41,575 - root - INFO - 创建 人脸创建器 - File: face_detector.py, Line: 21, Func: __init__
+2025-02-14 10:08:41,575 - root - INFO - 创建 人脸创建器 - File: face_detector.py, Line: 21, Func: __init__
+2025-02-14 10:08:41,575 - root - INFO - 创建 人脸创建器 - File: face_detector.py, Line: 21, Func: __init__
+2025-02-14 10:10:51,623 - root - INFO - 初始化完成 - File: main.py, Line: 12, Func: main
+2025-02-14 10:10:52,275 - root - INFO - 摄像头已创建 - File: camera.py, Line: 14, Func: create
+2025-02-14 10:10:52,275 - root - INFO - 摄像头已创建 - File: camera.py, Line: 14, Func: create
+2025-02-14 10:10:52,275 - root - INFO - 创建 人脸创建器 - File: face_detector.py, Line: 21, Func: __init__
+2025-02-14 10:10:52,275 - root - INFO - 创建 人脸创建器 - File: face_detector.py, Line: 21, Func: __init__
+2025-02-14 10:10:52,275 - root - INFO - 创建 人脸创建器 - File: face_detector.py, Line: 21, Func: __init__
+2025-02-14 10:16:45,904 - root - INFO - 初始化完成 - File: main.py, Line: 12, Func: main
+2025-02-14 10:16:46,606 - root - INFO - 摄像头已创建 - File: camera.py, Line: 14, Func: create
+2025-02-14 10:16:46,606 - root - INFO - 摄像头已创建 - File: camera.py, Line: 14, Func: create
+2025-02-14 10:16:46,606 - root - INFO - 创建 人脸创建器 - File: face_detector.py, Line: 21, Func: __init__
+2025-02-14 10:16:46,606 - root - INFO - 创建 人脸创建器 - File: face_detector.py, Line: 21, Func: __init__
+2025-02-14 10:16:46,606 - root - INFO - 创建 人脸创建器 - File: face_detector.py, Line: 21, Func: __init__
+2025-02-14 10:17:02,516 - root - INFO - 初始化完成 - File: main.py, Line: 12, Func: main
+2025-02-14 10:17:03,074 - root - INFO - 摄像头已创建 - File: camera.py, Line: 14, Func: create
+2025-02-14 10:17:03,074 - root - INFO - 摄像头已创建 - File: camera.py, Line: 14, Func: create
+2025-02-14 10:17:03,074 - root - INFO - 创建 人脸创建器 - File: face_detector.py, Line: 21, Func: __init__
+2025-02-14 10:17:03,074 - root - INFO - 创建 人脸创建器 - File: face_detector.py, Line: 21, Func: __init__
+2025-02-14 10:17:03,074 - root - INFO - 创建 人脸创建器 - File: face_detector.py, Line: 21, Func: __init__
+2025-02-14 10:17:24,231 - root - INFO - 初始化完成 - File: main.py, Line: 12, Func: main
+2025-02-14 10:17:24,785 - root - INFO - 摄像头已创建 - File: camera.py, Line: 14, Func: create
+2025-02-14 10:17:24,785 - root - INFO - 摄像头已创建 - File: camera.py, Line: 14, Func: create
+2025-02-14 10:17:24,786 - root - INFO - 创建 人脸创建器 - File: face_detector.py, Line: 21, Func: __init__
+2025-02-14 10:17:24,786 - root - INFO - 创建 人脸创建器 - File: face_detector.py, Line: 21, Func: __init__
+2025-02-14 10:17:24,786 - root - INFO - 创建 人脸创建器 - File: face_detector.py, Line: 21, Func: __init__
+2025-02-14 10:18:34,626 - root - INFO - 初始化完成 - File: main.py, Line: 12, Func: main
+2025-02-14 10:18:35,336 - root - INFO - 摄像头已创建 - File: camera.py, Line: 14, Func: create
+2025-02-14 10:18:35,336 - root - INFO - 摄像头已创建 - File: camera.py, Line: 14, Func: create
+2025-02-14 10:18:35,336 - root - INFO - 创建 人脸创建器 - File: face_detector.py, Line: 21, Func: __init__
+2025-02-14 10:18:35,336 - root - INFO - 创建 人脸创建器 - File: face_detector.py, Line: 21, Func: __init__
+2025-02-14 10:18:35,336 - root - INFO - 创建 人脸创建器 - File: face_detector.py, Line: 21, Func: __init__
+2025-02-14 10:23:14,380 - root - INFO - 初始化完成 - File: main.py, Line: 12, Func: main
+2025-02-14 10:23:15,032 - root - INFO - 摄像头已创建 - File: camera.py, Line: 14, Func: create
+2025-02-14 10:23:15,032 - root - INFO - 摄像头已创建 - File: camera.py, Line: 14, Func: create
+2025-02-14 10:23:15,033 - root - INFO - 创建 人脸创建器 - File: face_detector.py, Line: 21, Func: __init__
+2025-02-14 10:23:15,033 - root - INFO - 创建 人脸创建器 - File: face_detector.py, Line: 21, Func: __init__
+2025-02-14 10:23:15,033 - root - INFO - 创建 人脸创建器 - File: face_detector.py, Line: 21, Func: __init__
+2025-02-14 10:24:29,736 - root - INFO - 初始化完成 - File: main.py, Line: 12, Func: main
+2025-02-14 10:24:30,427 - root - INFO - 摄像头已创建 - File: camera.py, Line: 14, Func: create
+2025-02-14 10:24:30,427 - root - INFO - 摄像头已创建 - File: camera.py, Line: 14, Func: create
+2025-02-14 10:24:30,427 - root - INFO - 创建 人脸创建器 - File: face_detector.py, Line: 21, Func: __init__
+2025-02-14 10:24:30,427 - root - INFO - 创建 人脸创建器 - File: face_detector.py, Line: 21, Func: __init__
+2025-02-14 10:24:30,427 - root - INFO - 创建 人脸创建器 - File: face_detector.py, Line: 21, Func: __init__
+2025-02-14 10:28:11,047 - root - INFO - 初始化完成 - File: main.py, Line: 12, Func: main
+2025-02-14 10:28:11,769 - root - INFO - 摄像头已创建 - File: camera.py, Line: 14, Func: create
+2025-02-14 10:28:11,769 - root - INFO - 摄像头已创建 - File: camera.py, Line: 14, Func: create
+2025-02-14 10:28:11,769 - root - INFO - 创建 人脸创建器 - File: face_detector.py, Line: 21, Func: __init__
+2025-02-14 10:28:11,769 - root - INFO - 创建 人脸创建器 - File: face_detector.py, Line: 21, Func: __init__
+2025-02-14 10:28:11,769 - root - INFO - 创建 人脸创建器 - File: face_detector.py, Line: 21, Func: __init__
+2025-02-14 10:28:49,312 - root - INFO - 初始化完成 - File: main.py, Line: 12, Func: main
+2025-02-14 10:28:49,988 - root - INFO - 摄像头已创建 - File: camera.py, Line: 14, Func: create
+2025-02-14 10:28:49,988 - root - INFO - 摄像头已创建 - File: camera.py, Line: 14, Func: create
+2025-02-14 10:28:49,988 - root - INFO - 创建 人脸创建器 - File: face_detector.py, Line: 21, Func: __init__
+2025-02-14 10:28:49,988 - root - INFO - 创建 人脸创建器 - File: face_detector.py, Line: 21, Func: __init__
+2025-02-14 10:28:49,988 - root - INFO - 创建 人脸创建器 - File: face_detector.py, Line: 21, Func: __init__
+2025-02-14 10:29:56,501 - root - INFO - 初始化完成 - File: main.py, Line: 12, Func: main
+2025-02-14 10:29:57,247 - root - INFO - 摄像头已创建 - File: camera.py, Line: 14, Func: create
+2025-02-14 10:29:57,247 - root - INFO - 摄像头已创建 - File: camera.py, Line: 14, Func: create
+2025-02-14 10:29:57,248 - root - INFO - 创建 人脸创建器 - File: face_detector.py, Line: 21, Func: __init__
+2025-02-14 10:29:57,248 - root - INFO - 创建 人脸创建器 - File: face_detector.py, Line: 21, Func: __init__
+2025-02-14 10:29:57,248 - root - INFO - 创建 人脸创建器 - File: face_detector.py, Line: 21, Func: __init__
+2025-02-14 10:31:12,220 - root - INFO - 初始化完成 - File: main.py, Line: 12, Func: main
+2025-02-14 10:31:12,833 - root - INFO - 摄像头已创建 - File: camera.py, Line: 14, Func: create
+2025-02-14 10:31:12,833 - root - INFO - 摄像头已创建 - File: camera.py, Line: 14, Func: create
+2025-02-14 10:31:12,834 - root - INFO - 创建 人脸创建器 - File: face_detector.py, Line: 21, Func: __init__
+2025-02-14 10:31:12,834 - root - INFO - 创建 人脸创建器 - File: face_detector.py, Line: 21, Func: __init__
+2025-02-14 10:31:12,834 - root - INFO - 创建 人脸创建器 - File: face_detector.py, Line: 21, Func: __init__
+2025-02-14 10:48:10,817 - root - INFO - 初始化完成 - File: main.py, Line: 12, Func: main
+2025-02-14 10:48:11,380 - root - INFO - 摄像头已创建 - File: camera.py, Line: 14, Func: create
+2025-02-14 10:48:11,380 - root - INFO - 摄像头已创建 - File: camera.py, Line: 14, Func: create
+2025-02-14 10:54:02,815 - root - INFO - 初始化完成 - File: main.py, Line: 12, Func: main
+2025-02-14 10:54:03,419 - root - INFO - 摄像头已创建 - File: camera.py, Line: 15, Func: create
+2025-02-14 10:54:03,419 - root - INFO - 摄像头已创建 - File: camera.py, Line: 15, Func: create
+2025-02-14 10:54:03,419 - root - INFO - 创建 人脸创建器 - File: face_detector.py, Line: 21, Func: __init__
+2025-02-14 10:54:03,419 - root - INFO - 创建 人脸创建器 - File: face_detector.py, Line: 21, Func: __init__
+2025-02-14 10:54:03,419 - root - INFO - 创建 人脸创建器 - File: face_detector.py, Line: 21, Func: __init__
+2025-02-14 10:58:38,468 - root - INFO - 初始化完成 - File: main.py, Line: 12, Func: main
+2025-02-14 10:58:39,036 - root - INFO - 摄像头已创建 - File: camera.py, Line: 15, Func: create
+2025-02-14 10:58:39,036 - root - INFO - 摄像头已创建 - File: camera.py, Line: 15, Func: create
+2025-02-14 10:58:39,036 - root - INFO - 创建 人脸创建器 - File: face_detector.py, Line: 21, Func: __init__
+2025-02-14 10:58:39,036 - root - INFO - 创建 人脸创建器 - File: face_detector.py, Line: 21, Func: __init__
+2025-02-14 10:58:39,036 - root - INFO - 创建 人脸创建器 - File: face_detector.py, Line: 21, Func: __init__
+2025-02-14 11:00:07,022 - root - INFO - 初始化完成 - File: main.py, Line: 12, Func: main
+2025-02-14 11:00:07,586 - root - INFO - 摄像头已创建 - File: camera.py, Line: 15, Func: create
+2025-02-14 11:00:07,586 - root - INFO - 摄像头已创建 - File: camera.py, Line: 15, Func: create
+2025-02-14 11:00:07,586 - root - INFO - 创建 人脸创建器 - File: face_detector.py, Line: 21, Func: __init__
+2025-02-14 11:00:07,586 - root - INFO - 创建 人脸创建器 - File: face_detector.py, Line: 21, Func: __init__
+2025-02-14 11:00:07,586 - root - INFO - 创建 人脸创建器 - File: face_detector.py, Line: 21, Func: __init__
+2025-02-14 11:00:42,959 - root - INFO - 初始化完成 - File: main.py, Line: 12, Func: main
+2025-02-14 11:00:43,382 - root - INFO - 摄像头已创建 - File: camera.py, Line: 15, Func: create
+2025-02-14 11:00:43,382 - root - INFO - 摄像头已创建 - File: camera.py, Line: 15, Func: create
+2025-02-14 11:00:43,382 - root - INFO - 创建 人脸创建器 - File: face_detector.py, Line: 21, Func: __init__
+2025-02-14 11:00:43,382 - root - INFO - 创建 人脸创建器 - File: face_detector.py, Line: 21, Func: __init__
+2025-02-14 11:00:43,382 - root - INFO - 创建 人脸创建器 - File: face_detector.py, Line: 21, Func: __init__
+2025-02-14 11:02:25,885 - root - INFO - 初始化完成 - File: main.py, Line: 12, Func: main
+2025-02-14 11:02:26,449 - root - INFO - 摄像头已创建 - File: camera.py, Line: 15, Func: create
+2025-02-14 11:02:26,449 - root - INFO - 摄像头已创建 - File: camera.py, Line: 15, Func: create
+2025-02-14 11:02:26,449 - root - INFO - 创建 人脸创建器 - File: face_detector.py, Line: 21, Func: __init__
+2025-02-14 11:02:26,449 - root - INFO - 创建 人脸创建器 - File: face_detector.py, Line: 21, Func: __init__
+2025-02-14 11:02:26,449 - root - INFO - 创建 人脸创建器 - File: face_detector.py, Line: 21, Func: __init__
+2025-02-14 11:03:36,729 - root - INFO - 初始化完成 - File: main.py, Line: 12, Func: main
+2025-02-14 11:03:37,388 - root - INFO - 摄像头已创建 - File: camera.py, Line: 15, Func: create
+2025-02-14 11:03:37,388 - root - INFO - 摄像头已创建 - File: camera.py, Line: 15, Func: create
+2025-02-14 11:03:37,388 - root - INFO - 创建 人脸创建器 - File: face_detector.py, Line: 21, Func: __init__
+2025-02-14 11:03:37,388 - root - INFO - 创建 人脸创建器 - File: face_detector.py, Line: 21, Func: __init__
+2025-02-14 11:03:37,388 - root - INFO - 创建 人脸创建器 - File: face_detector.py, Line: 21, Func: __init__
+2025-02-14 11:04:50,038 - root - INFO - 初始化完成 - File: main.py, Line: 12, Func: main
+2025-02-14 11:04:50,600 - root - INFO - 摄像头已创建 - File: camera.py, Line: 15, Func: create
+2025-02-14 11:04:50,600 - root - INFO - 摄像头已创建 - File: camera.py, Line: 15, Func: create
+2025-02-14 11:04:50,600 - root - INFO - 创建 人脸创建器 - File: face_detector.py, Line: 21, Func: __init__
+2025-02-14 11:04:50,600 - root - INFO - 创建 人脸创建器 - File: face_detector.py, Line: 21, Func: __init__
+2025-02-14 11:04:50,600 - root - INFO - 创建 人脸创建器 - File: face_detector.py, Line: 21, Func: __init__
+2025-02-14 11:05:17,843 - root - INFO - 初始化完成 - File: main.py, Line: 12, Func: main
+2025-02-14 11:05:18,314 - root - INFO - 摄像头已创建 - File: camera.py, Line: 15, Func: create
+2025-02-14 11:05:18,314 - root - INFO - 摄像头已创建 - File: camera.py, Line: 15, Func: create
+2025-02-14 11:05:18,314 - root - INFO - 创建 人脸创建器 - File: face_detector.py, Line: 21, Func: __init__
+2025-02-14 11:05:18,314 - root - INFO - 创建 人脸创建器 - File: face_detector.py, Line: 21, Func: __init__
+2025-02-14 11:05:18,314 - root - INFO - 创建 人脸创建器 - File: face_detector.py, Line: 21, Func: __init__
+2025-02-14 11:05:58,911 - root - INFO - 初始化完成 - File: main.py, Line: 12, Func: main
+2025-02-14 11:05:59,556 - root - INFO - 摄像头已创建 - File: camera.py, Line: 15, Func: create
+2025-02-14 11:05:59,556 - root - INFO - 摄像头已创建 - File: camera.py, Line: 15, Func: create
+2025-02-14 11:05:59,557 - root - INFO - 创建 人脸创建器 - File: face_detector.py, Line: 21, Func: __init__
+2025-02-14 11:05:59,557 - root - INFO - 创建 人脸创建器 - File: face_detector.py, Line: 21, Func: __init__
+2025-02-14 11:05:59,557 - root - INFO - 创建 人脸创建器 - File: face_detector.py, Line: 21, Func: __init__
+2025-02-14 11:07:13,712 - root - INFO - 初始化完成 - File: main.py, Line: 12, Func: main
+2025-02-14 11:07:14,282 - root - INFO - 摄像头已创建 - File: camera.py, Line: 15, Func: create
+2025-02-14 11:07:14,282 - root - INFO - 摄像头已创建 - File: camera.py, Line: 15, Func: create
+2025-02-14 11:07:14,282 - root - INFO - 创建 人脸创建器 - File: face_detector.py, Line: 21, Func: __init__
+2025-02-14 11:07:14,282 - root - INFO - 创建 人脸创建器 - File: face_detector.py, Line: 21, Func: __init__
+2025-02-14 11:07:14,282 - root - INFO - 创建 人脸创建器 - File: face_detector.py, Line: 21, Func: __init__
+2025-02-14 11:08:09,149 - root - INFO - 初始化完成 - File: main.py, Line: 12, Func: main
+2025-02-14 11:08:09,708 - root - INFO - 摄像头已创建 - File: camera.py, Line: 15, Func: create
+2025-02-14 11:08:09,708 - root - INFO - 摄像头已创建 - File: camera.py, Line: 15, Func: create
+2025-02-14 11:09:48,482 - root - INFO - 初始化完成 - File: main.py, Line: 12, Func: main
+2025-02-14 11:09:49,115 - root - INFO - 摄像头已创建 - File: camera.py, Line: 15, Func: create
+2025-02-14 11:09:49,115 - root - INFO - 摄像头已创建 - File: camera.py, Line: 15, Func: create
+2025-02-14 11:14:28,997 - root - INFO - 初始化完成 - File: main.py, Line: 12, Func: main
+2025-02-14 11:14:29,648 - root - INFO - 摄像头已创建 - File: camera.py, Line: 15, Func: create
+2025-02-14 11:14:29,648 - root - INFO - 摄像头已创建 - File: camera.py, Line: 15, Func: create
+2025-02-14 11:14:48,734 - root - INFO - 初始化完成 - File: main.py, Line: 12, Func: main
+2025-02-14 11:14:49,196 - root - INFO - 摄像头已创建 - File: camera.py, Line: 15, Func: create
+2025-02-14 11:14:49,196 - root - INFO - 摄像头已创建 - File: camera.py, Line: 15, Func: create
+2025-02-14 11:14:49,196 - root - INFO - 创建 人脸创建器 - File: face_detector.py, Line: 21, Func: __init__
+2025-02-14 11:14:49,196 - root - INFO - 创建 人脸创建器 - File: face_detector.py, Line: 21, Func: __init__
+2025-02-14 11:14:49,196 - root - INFO - 创建 人脸创建器 - File: face_detector.py, Line: 21, Func: __init__
+2025-02-14 11:17:16,187 - root - INFO - 初始化完成 - File: main.py, Line: 12, Func: main
+2025-02-14 11:17:16,806 - root - INFO - 摄像头已创建 - File: camera.py, Line: 15, Func: create
+2025-02-14 11:17:16,806 - root - INFO - 摄像头已创建 - File: camera.py, Line: 15, Func: create
+2025-02-14 11:17:16,806 - root - INFO - 创建 人脸创建器 - File: face_detector.py, Line: 21, Func: __init__
+2025-02-14 11:17:16,806 - root - INFO - 创建 人脸创建器 - File: face_detector.py, Line: 21, Func: __init__
+2025-02-14 11:17:16,806 - root - INFO - 创建 人脸创建器 - File: face_detector.py, Line: 21, Func: __init__
+2025-02-14 11:18:39,971 - root - INFO - 初始化完成 - File: main.py, Line: 12, Func: main
+2025-02-14 11:18:40,619 - root - INFO - 摄像头已创建 - File: camera.py, Line: 18, Func: create
+2025-02-14 11:18:40,619 - root - INFO - 摄像头已创建 - File: camera.py, Line: 18, Func: create
+2025-02-14 11:18:40,619 - root - INFO - 创建 人脸创建器 - File: face_detector.py, Line: 21, Func: __init__
+2025-02-14 11:18:40,619 - root - INFO - 创建 人脸创建器 - File: face_detector.py, Line: 21, Func: __init__
+2025-02-14 11:18:40,619 - root - INFO - 创建 人脸创建器 - File: face_detector.py, Line: 21, Func: __init__
+2025-02-14 11:19:38,087 - root - INFO - 初始化完成 - File: main.py, Line: 12, Func: main
+2025-02-14 11:19:38,757 - root - INFO - 摄像头已创建 - File: camera.py, Line: 18, Func: create
+2025-02-14 11:19:38,757 - root - INFO - 摄像头已创建 - File: camera.py, Line: 18, Func: create
+2025-02-14 11:19:38,758 - root - INFO - 创建 人脸创建器 - File: face_detector.py, Line: 21, Func: __init__
+2025-02-14 11:19:38,758 - root - INFO - 创建 人脸创建器 - File: face_detector.py, Line: 21, Func: __init__
+2025-02-14 11:19:38,758 - root - INFO - 创建 人脸创建器 - File: face_detector.py, Line: 21, Func: __init__
+2025-02-14 11:20:05,979 - root - INFO - 初始化完成 - File: main.py, Line: 12, Func: main
+2025-02-14 11:20:06,421 - root - INFO - 摄像头已创建 - File: camera.py, Line: 18, Func: create
+2025-02-14 11:20:06,421 - root - INFO - 摄像头已创建 - File: camera.py, Line: 18, Func: create
+2025-02-14 11:20:06,421 - root - INFO - 创建 人脸创建器 - File: face_detector.py, Line: 21, Func: __init__
+2025-02-14 11:20:06,421 - root - INFO - 创建 人脸创建器 - File: face_detector.py, Line: 21, Func: __init__
+2025-02-14 11:20:06,421 - root - INFO - 创建 人脸创建器 - File: face_detector.py, Line: 21, Func: __init__
+2025-02-14 11:21:01,989 - root - INFO - 初始化完成 - File: main.py, Line: 12, Func: main
+2025-02-14 11:21:02,619 - root - INFO - 摄像头已创建 - File: camera.py, Line: 18, Func: create
+2025-02-14 11:21:02,619 - root - INFO - 摄像头已创建 - File: camera.py, Line: 18, Func: create
+2025-02-14 11:21:02,620 - root - INFO - 创建 人脸创建器 - File: face_detector.py, Line: 21, Func: __init__
+2025-02-14 11:21:02,620 - root - INFO - 创建 人脸创建器 - File: face_detector.py, Line: 21, Func: __init__
+2025-02-14 11:21:02,620 - root - INFO - 创建 人脸创建器 - File: face_detector.py, Line: 21, Func: __init__
+2025-02-14 11:21:20,143 - root - INFO - 初始化完成 - File: main.py, Line: 12, Func: main
+2025-02-14 11:21:20,658 - root - INFO - 摄像头已创建 - File: camera.py, Line: 18, Func: create
+2025-02-14 11:21:20,658 - root - INFO - 摄像头已创建 - File: camera.py, Line: 18, Func: create
+2025-02-14 11:21:20,658 - root - INFO - 创建 人脸创建器 - File: face_detector.py, Line: 21, Func: __init__
+2025-02-14 11:21:20,658 - root - INFO - 创建 人脸创建器 - File: face_detector.py, Line: 21, Func: __init__
+2025-02-14 11:21:20,658 - root - INFO - 创建 人脸创建器 - File: face_detector.py, Line: 21, Func: __init__
+2025-02-14 13:01:25,646 - root - INFO - 初始化完成 - File: main.py, Line: 12, Func: main
+2025-02-14 13:01:26,422 - root - INFO - 摄像头已创建 - File: camera.py, Line: 18, Func: create
+2025-02-14 13:01:26,422 - root - INFO - 摄像头已创建 - File: camera.py, Line: 18, Func: create
+2025-02-14 13:01:26,422 - root - INFO - 创建 人脸创建器 - File: face_detector.py, Line: 21, Func: __init__
+2025-02-14 13:01:26,422 - root - INFO - 创建 人脸创建器 - File: face_detector.py, Line: 21, Func: __init__
+2025-02-14 13:01:26,422 - root - INFO - 创建 人脸创建器 - File: face_detector.py, Line: 21, Func: __init__
+2025-02-14 13:32:31,147 - root - INFO - 初始化完成 - File: main.py, Line: 12, Func: main
+2025-02-14 13:32:31,660 - root - INFO - 摄像头已创建 - File: camera.py, Line: 18, Func: create
+2025-02-14 13:32:31,660 - root - INFO - 摄像头已创建 - File: camera.py, Line: 18, Func: create
+2025-02-14 13:32:31,662 - root - INFO - 创建 人脸创建器 - File: face_detector.py, Line: 21, Func: __init__
+2025-02-14 13:32:31,662 - root - INFO - 创建 人脸创建器 - File: face_detector.py, Line: 21, Func: __init__
+2025-02-14 13:32:31,662 - root - INFO - 创建 人脸创建器 - File: face_detector.py, Line: 21, Func: __init__
+2025-02-14 13:46:45,079 - root - INFO - 初始化完成 - File: main.py, Line: 12, Func: main
+2025-02-14 13:46:45,661 - root - INFO - 摄像头已创建 - File: camera.py, Line: 18, Func: create
+2025-02-14 13:46:45,661 - root - INFO - 摄像头已创建 - File: camera.py, Line: 18, Func: create
+2025-02-14 13:46:45,662 - root - INFO - 创建 人脸创建器 - File: face_detector.py, Line: 23, Func: __init__
+2025-02-14 13:46:45,662 - root - INFO - 创建 人脸创建器 - File: face_detector.py, Line: 23, Func: __init__
+2025-02-14 13:46:45,662 - root - INFO - 创建 人脸创建器 - File: face_detector.py, Line: 23, Func: __init__
+2025-02-14 13:47:53,920 - root - INFO - 初始化完成 - File: main.py, Line: 12, Func: main
+2025-02-14 13:47:54,530 - root - INFO - 摄像头已创建 - File: camera.py, Line: 18, Func: create
+2025-02-14 13:47:54,530 - root - INFO - 摄像头已创建 - File: camera.py, Line: 18, Func: create
+2025-02-14 13:47:54,530 - root - INFO - 创建 人脸创建器 - File: face_detector.py, Line: 23, Func: __init__
+2025-02-14 13:47:54,530 - root - INFO - 创建 人脸创建器 - File: face_detector.py, Line: 23, Func: __init__
+2025-02-14 13:47:54,530 - root - INFO - 创建 人脸创建器 - File: face_detector.py, Line: 23, Func: __init__
+2025-02-14 13:48:17,204 - root - INFO - 初始化完成 - File: main.py, Line: 12, Func: main
+2025-02-14 13:48:17,704 - root - INFO - 摄像头已创建 - File: camera.py, Line: 18, Func: create
+2025-02-14 13:48:17,704 - root - INFO - 摄像头已创建 - File: camera.py, Line: 18, Func: create
+2025-02-14 13:48:17,705 - root - INFO - 创建 人脸创建器 - File: face_detector.py, Line: 23, Func: __init__
+2025-02-14 13:48:17,705 - root - INFO - 创建 人脸创建器 - File: face_detector.py, Line: 23, Func: __init__
+2025-02-14 13:48:17,705 - root - INFO - 创建 人脸创建器 - File: face_detector.py, Line: 23, Func: __init__
+2025-02-14 13:48:32,250 - root - INFO - 初始化完成 - File: main.py, Line: 12, Func: main
+2025-02-14 13:48:32,682 - root - INFO - 摄像头已创建 - File: camera.py, Line: 18, Func: create
+2025-02-14 13:48:32,682 - root - INFO - 摄像头已创建 - File: camera.py, Line: 18, Func: create
+2025-02-14 13:48:32,683 - root - INFO - 创建 人脸创建器 - File: face_detector.py, Line: 23, Func: __init__
+2025-02-14 13:48:32,683 - root - INFO - 创建 人脸创建器 - File: face_detector.py, Line: 23, Func: __init__
+2025-02-14 13:48:32,683 - root - INFO - 创建 人脸创建器 - File: face_detector.py, Line: 23, Func: __init__
+2025-02-14 13:49:50,233 - root - INFO - 初始化完成 - File: main.py, Line: 12, Func: main
+2025-02-14 13:49:50,797 - root - INFO - 摄像头已创建 - File: camera.py, Line: 18, Func: create
+2025-02-14 13:49:50,797 - root - INFO - 摄像头已创建 - File: camera.py, Line: 18, Func: create
+2025-02-14 13:49:50,798 - root - INFO - 创建 人脸创建器 - File: face_detector.py, Line: 23, Func: __init__
+2025-02-14 13:49:50,798 - root - INFO - 创建 人脸创建器 - File: face_detector.py, Line: 23, Func: __init__
+2025-02-14 13:49:50,798 - root - INFO - 创建 人脸创建器 - File: face_detector.py, Line: 23, Func: __init__
+2025-02-14 13:50:06,527 - root - INFO - 初始化完成 - File: main.py, Line: 12, Func: main
+2025-02-14 13:50:06,982 - root - INFO - 摄像头已创建 - File: camera.py, Line: 18, Func: create
+2025-02-14 13:50:06,982 - root - INFO - 摄像头已创建 - File: camera.py, Line: 18, Func: create
+2025-02-14 13:50:06,982 - root - INFO - 创建 人脸创建器 - File: face_detector.py, Line: 23, Func: __init__
+2025-02-14 13:50:06,982 - root - INFO - 创建 人脸创建器 - File: face_detector.py, Line: 23, Func: __init__
+2025-02-14 13:50:06,982 - root - INFO - 创建 人脸创建器 - File: face_detector.py, Line: 23, Func: __init__
+2025-02-14 13:51:43,734 - root - INFO - 初始化完成 - File: main.py, Line: 12, Func: main
+2025-02-14 13:51:44,359 - root - INFO - 摄像头已创建 - File: camera.py, Line: 18, Func: create
+2025-02-14 13:51:44,359 - root - INFO - 摄像头已创建 - File: camera.py, Line: 18, Func: create
+2025-02-14 13:51:44,360 - root - INFO - 创建 人脸创建器 - File: face_detector.py, Line: 23, Func: __init__
+2025-02-14 13:51:44,360 - root - INFO - 创建 人脸创建器 - File: face_detector.py, Line: 23, Func: __init__
+2025-02-14 13:51:44,360 - root - INFO - 创建 人脸创建器 - File: face_detector.py, Line: 23, Func: __init__
+2025-02-14 13:52:36,099 - root - INFO - 初始化完成 - File: main.py, Line: 12, Func: main
+2025-02-14 13:52:36,665 - root - INFO - 摄像头已创建 - File: camera.py, Line: 18, Func: create
+2025-02-14 13:52:36,665 - root - INFO - 摄像头已创建 - File: camera.py, Line: 18, Func: create
+2025-02-14 13:52:36,665 - root - INFO - 创建 人脸创建器 - File: face_detector.py, Line: 23, Func: __init__
+2025-02-14 13:52:36,665 - root - INFO - 创建 人脸创建器 - File: face_detector.py, Line: 23, Func: __init__
+2025-02-14 13:52:36,665 - root - INFO - 创建 人脸创建器 - File: face_detector.py, Line: 23, Func: __init__
+2025-02-14 14:00:28,027 - root - INFO - 初始化完成 - File: main.py, Line: 12, Func: main
+2025-02-14 14:00:28,592 - root - INFO - 摄像头已创建 - File: camera.py, Line: 18, Func: create
+2025-02-14 14:00:28,592 - root - INFO - 摄像头已创建 - File: camera.py, Line: 18, Func: create
+2025-02-14 14:00:28,593 - root - INFO - 创建 人脸创建器 - File: face_detector.py, Line: 24, Func: __init__
+2025-02-14 14:00:28,593 - root - INFO - 创建 人脸创建器 - File: face_detector.py, Line: 24, Func: __init__
+2025-02-14 14:00:28,593 - root - INFO - 创建 人脸创建器 - File: face_detector.py, Line: 24, Func: __init__
+2025-02-14 14:11:28,350 - root - INFO - 初始化完成 - File: main.py, Line: 12, Func: main
+2025-02-14 14:11:29,002 - root - INFO - 摄像头已创建 - File: camera.py, Line: 18, Func: create
+2025-02-14 14:11:29,002 - root - INFO - 摄像头已创建 - File: camera.py, Line: 18, Func: create
+2025-02-14 14:11:29,002 - root - INFO - 创建 人脸创建器 - File: face_detector.py, Line: 24, Func: __init__
+2025-02-14 14:11:29,002 - root - INFO - 创建 人脸创建器 - File: face_detector.py, Line: 24, Func: __init__
+2025-02-14 14:11:29,002 - root - INFO - 创建 人脸创建器 - File: face_detector.py, Line: 24, Func: __init__
+2025-02-14 14:20:22,210 - root - INFO - 初始化完成 - File: main.py, Line: 12, Func: main
+2025-02-14 14:20:23,205 - root - INFO - 摄像头已创建 - File: camera.py, Line: 18, Func: create
+2025-02-14 14:20:23,205 - root - INFO - 摄像头已创建 - File: camera.py, Line: 18, Func: create
+2025-02-14 14:20:23,206 - root - INFO - 创建 人脸创建器 - File: face_detector.py, Line: 24, Func: __init__
+2025-02-14 14:20:23,206 - root - INFO - 创建 人脸创建器 - File: face_detector.py, Line: 24, Func: __init__
+2025-02-14 14:20:23,206 - root - INFO - 创建 人脸创建器 - File: face_detector.py, Line: 24, Func: __init__
+2025-02-14 14:21:34,085 - root - INFO - 初始化完成 - File: main.py, Line: 12, Func: main
+2025-02-14 14:21:34,703 - root - INFO - 摄像头已创建 - File: camera.py, Line: 18, Func: create
+2025-02-14 14:21:34,703 - root - INFO - 摄像头已创建 - File: camera.py, Line: 18, Func: create
+2025-02-14 14:26:21,446 - root - INFO - 初始化完成 - File: main.py, Line: 12, Func: main
+2025-02-14 14:26:22,062 - root - INFO - 摄像头已创建 - File: camera.py, Line: 18, Func: create
+2025-02-14 14:26:22,062 - root - INFO - 摄像头已创建 - File: camera.py, Line: 18, Func: create
+2025-02-14 14:31:56,783 - root - INFO - 初始化完成 - File: main.py, Line: 12, Func: main
+2025-02-14 14:31:57,494 - root - INFO - 摄像头已创建 - File: camera.py, Line: 18, Func: create
+2025-02-14 14:31:57,494 - root - INFO - 摄像头已创建 - File: camera.py, Line: 18, Func: create
+2025-02-14 14:32:08,799 - root - INFO - 初始化完成 - File: main.py, Line: 12, Func: main
+2025-02-14 14:32:09,312 - root - INFO - 摄像头已创建 - File: camera.py, Line: 18, Func: create
+2025-02-14 14:32:09,312 - root - INFO - 摄像头已创建 - File: camera.py, Line: 18, Func: create
+2025-02-14 14:33:16,397 - root - INFO - 初始化完成 - File: main.py, Line: 12, Func: main
+2025-02-14 14:33:17,000 - root - INFO - 摄像头已创建 - File: camera.py, Line: 18, Func: create
+2025-02-14 14:33:17,000 - root - INFO - 摄像头已创建 - File: camera.py, Line: 18, Func: create
+2025-02-14 14:34:39,272 - root - INFO - 初始化完成 - File: main.py, Line: 12, Func: main
+2025-02-14 14:34:39,854 - root - INFO - 摄像头已创建 - File: camera.py, Line: 18, Func: create
+2025-02-14 14:34:39,854 - root - INFO - 摄像头已创建 - File: camera.py, Line: 18, Func: create
+2025-02-14 14:36:03,819 - root - INFO - 初始化完成 - File: main.py, Line: 12, Func: main
+2025-02-14 14:36:04,768 - root - INFO - 摄像头已创建 - File: camera.py, Line: 18, Func: create
+2025-02-14 14:36:04,768 - root - INFO - 摄像头已创建 - File: camera.py, Line: 18, Func: create
+2025-02-14 14:37:14,132 - root - INFO - 初始化完成 - File: main.py, Line: 12, Func: main
+2025-02-14 14:37:14,735 - root - INFO - 摄像头已创建 - File: camera.py, Line: 18, Func: create
+2025-02-14 14:37:14,735 - root - INFO - 摄像头已创建 - File: camera.py, Line: 18, Func: create
+2025-02-14 14:38:05,403 - root - INFO - 初始化完成 - File: main.py, Line: 12, Func: main
+2025-02-14 14:38:06,038 - root - INFO - 摄像头已创建 - File: camera.py, Line: 18, Func: create
+2025-02-14 14:38:06,038 - root - INFO - 摄像头已创建 - File: camera.py, Line: 18, Func: create
+2025-02-14 14:38:54,693 - root - INFO - 初始化完成 - File: main.py, Line: 12, Func: main
+2025-02-14 14:38:55,396 - root - INFO - 摄像头已创建 - File: camera.py, Line: 18, Func: create
+2025-02-14 14:38:55,396 - root - INFO - 摄像头已创建 - File: camera.py, Line: 18, Func: create
+2025-02-14 14:39:34,386 - root - INFO - 初始化完成 - File: main.py, Line: 12, Func: main
+2025-02-14 14:39:34,844 - root - INFO - 摄像头已创建 - File: camera.py, Line: 18, Func: create
+2025-02-14 14:39:34,844 - root - INFO - 摄像头已创建 - File: camera.py, Line: 18, Func: create
+2025-02-14 14:40:29,114 - root - INFO - 初始化完成 - File: main.py, Line: 12, Func: main
+2025-02-14 14:40:29,810 - root - INFO - 摄像头已创建 - File: camera.py, Line: 18, Func: create
+2025-02-14 14:40:29,810 - root - INFO - 摄像头已创建 - File: camera.py, Line: 18, Func: create
+2025-02-14 14:41:05,460 - root - INFO - 初始化完成 - File: main.py, Line: 12, Func: main
+2025-02-14 14:41:05,973 - root - INFO - 摄像头已创建 - File: camera.py, Line: 18, Func: create
+2025-02-14 14:41:05,973 - root - INFO - 摄像头已创建 - File: camera.py, Line: 18, Func: create
+2025-02-14 14:42:14,238 - root - INFO - 初始化完成 - File: main.py, Line: 12, Func: main
+2025-02-14 14:42:14,917 - root - INFO - 摄像头已创建 - File: camera.py, Line: 18, Func: create
+2025-02-14 14:42:14,917 - root - INFO - 摄像头已创建 - File: camera.py, Line: 18, Func: create
+2025-02-14 14:42:48,746 - root - INFO - 初始化完成 - File: main.py, Line: 12, Func: main
+2025-02-14 14:42:49,290 - root - INFO - 摄像头已创建 - File: camera.py, Line: 18, Func: create
+2025-02-14 14:42:49,290 - root - INFO - 摄像头已创建 - File: camera.py, Line: 18, Func: create
+2025-02-14 14:45:07,672 - root - INFO - 初始化完成 - File: main.py, Line: 12, Func: main
+2025-02-14 14:45:08,250 - root - INFO - 摄像头已创建 - File: camera.py, Line: 18, Func: create
+2025-02-14 14:45:08,250 - root - INFO - 摄像头已创建 - File: camera.py, Line: 18, Func: create
+2025-02-14 14:45:54,860 - root - INFO - 初始化完成 - File: main.py, Line: 12, Func: main
+2025-02-14 14:45:55,454 - root - INFO - 摄像头已创建 - File: camera.py, Line: 18, Func: create
+2025-02-14 14:45:55,454 - root - INFO - 摄像头已创建 - File: camera.py, Line: 18, Func: create
+2025-02-14 14:46:59,849 - root - INFO - 初始化完成 - File: main.py, Line: 12, Func: main
+2025-02-14 14:47:00,482 - root - INFO - 摄像头已创建 - File: camera.py, Line: 18, Func: create
+2025-02-14 14:47:00,482 - root - INFO - 摄像头已创建 - File: camera.py, Line: 18, Func: create
+2025-02-14 14:49:02,238 - root - INFO - 初始化完成 - File: main.py, Line: 12, Func: main
+2025-02-14 14:49:02,967 - root - INFO - 摄像头已创建 - File: camera.py, Line: 18, Func: create
+2025-02-14 14:49:02,967 - root - INFO - 摄像头已创建 - File: camera.py, Line: 18, Func: create
+2025-02-14 14:49:25,877 - root - INFO - 初始化完成 - File: main.py, Line: 12, Func: main
+2025-02-14 14:49:26,390 - root - INFO - 摄像头已创建 - File: camera.py, Line: 18, Func: create
+2025-02-14 14:49:26,390 - root - INFO - 摄像头已创建 - File: camera.py, Line: 18, Func: create
+2025-02-14 14:52:35,485 - root - INFO - 初始化完成 - File: main.py, Line: 12, Func: main
+2025-02-14 14:52:35,969 - root - INFO - 摄像头已创建 - File: camera.py, Line: 18, Func: create
+2025-02-14 14:52:35,969 - root - INFO - 摄像头已创建 - File: camera.py, Line: 18, Func: create
+2025-02-14 14:56:01,361 - root - INFO - 初始化完成 - File: main.py, Line: 12, Func: main
+2025-02-14 14:56:01,895 - root - INFO - 摄像头已创建 - File: camera.py, Line: 18, Func: create
+2025-02-14 14:56:01,895 - root - INFO - 摄像头已创建 - File: camera.py, Line: 18, Func: create
+2025-02-14 14:56:23,176 - root - INFO - 初始化完成 - File: main.py, Line: 12, Func: main
+2025-02-14 14:56:23,672 - root - INFO - 摄像头已创建 - File: camera.py, Line: 18, Func: create
+2025-02-14 14:56:23,672 - root - INFO - 摄像头已创建 - File: camera.py, Line: 18, Func: create
+2025-02-14 14:56:47,229 - root - INFO - 初始化完成 - File: main.py, Line: 12, Func: main
+2025-02-14 14:56:47,731 - root - INFO - 摄像头已创建 - File: camera.py, Line: 18, Func: create
+2025-02-14 14:56:47,731 - root - INFO - 摄像头已创建 - File: camera.py, Line: 18, Func: create
+2025-02-14 14:57:33,708 - root - INFO - 初始化完成 - File: main.py, Line: 12, Func: main
+2025-02-14 14:57:34,292 - root - INFO - 摄像头已创建 - File: camera.py, Line: 18, Func: create
+2025-02-14 14:57:34,292 - root - INFO - 摄像头已创建 - File: camera.py, Line: 18, Func: create
+2025-02-14 14:58:11,709 - root - INFO - 初始化完成 - File: main.py, Line: 12, Func: main
+2025-02-14 14:58:12,332 - root - INFO - 摄像头已创建 - File: camera.py, Line: 18, Func: create
+2025-02-14 14:58:12,332 - root - INFO - 摄像头已创建 - File: camera.py, Line: 18, Func: create
+2025-02-14 14:58:18,973 - root - INFO - 初始化完成 - File: main.py, Line: 12, Func: main
+2025-02-14 14:58:19,500 - root - INFO - 摄像头已创建 - File: camera.py, Line: 18, Func: create
+2025-02-14 14:58:19,500 - root - INFO - 摄像头已创建 - File: camera.py, Line: 18, Func: create
+2025-02-14 14:59:23,823 - root - INFO - 初始化完成 - File: main.py, Line: 12, Func: main
+2025-02-14 14:59:24,405 - root - INFO - 摄像头已创建 - File: camera.py, Line: 18, Func: create
+2025-02-14 14:59:24,405 - root - INFO - 摄像头已创建 - File: camera.py, Line: 18, Func: create
+2025-02-14 15:00:14,062 - root - INFO - 初始化完成 - File: main.py, Line: 12, Func: main
+2025-02-14 15:00:14,699 - root - INFO - 摄像头已创建 - File: camera.py, Line: 18, Func: create
+2025-02-14 15:00:14,699 - root - INFO - 摄像头已创建 - File: camera.py, Line: 18, Func: create
+2025-02-14 15:01:29,797 - root - INFO - 初始化完成 - File: main.py, Line: 12, Func: main
+2025-02-14 15:01:30,711 - root - INFO - 摄像头已创建 - File: camera.py, Line: 18, Func: create
+2025-02-14 15:01:30,711 - root - INFO - 摄像头已创建 - File: camera.py, Line: 18, Func: create
+2025-02-14 15:01:41,272 - root - INFO - 初始化完成 - File: main.py, Line: 12, Func: main
+2025-02-14 15:01:41,834 - root - INFO - 摄像头已创建 - File: camera.py, Line: 18, Func: create
+2025-02-14 15:01:41,834 - root - INFO - 摄像头已创建 - File: camera.py, Line: 18, Func: create
+2025-02-14 15:01:55,449 - root - INFO - 初始化完成 - File: main.py, Line: 12, Func: main
+2025-02-14 15:01:56,046 - root - INFO - 摄像头已创建 - File: camera.py, Line: 18, Func: create
+2025-02-14 15:01:56,046 - root - INFO - 摄像头已创建 - File: camera.py, Line: 18, Func: create
+2025-02-14 15:02:40,610 - root - INFO - 初始化完成 - File: main.py, Line: 12, Func: main
+2025-02-14 15:02:41,262 - root - INFO - 摄像头已创建 - File: camera.py, Line: 18, Func: create
+2025-02-14 15:02:41,262 - root - INFO - 摄像头已创建 - File: camera.py, Line: 18, Func: create
+2025-02-14 15:02:53,691 - root - INFO - 初始化完成 - File: main.py, Line: 12, Func: main
+2025-02-14 15:02:54,302 - root - INFO - 摄像头已创建 - File: camera.py, Line: 18, Func: create
+2025-02-14 15:02:54,302 - root - INFO - 摄像头已创建 - File: camera.py, Line: 18, Func: create
+2025-02-14 15:05:08,222 - root - INFO - 初始化完成 - File: main.py, Line: 12, Func: main
+2025-02-14 15:05:08,870 - root - INFO - 摄像头已创建 - File: camera.py, Line: 18, Func: create
+2025-02-14 15:05:08,870 - root - INFO - 摄像头已创建 - File: camera.py, Line: 18, Func: create
+2025-02-14 15:14:14,699 - root - INFO - 初始化完成 - File: main.py, Line: 12, Func: main
+2025-02-14 15:14:15,349 - root - INFO - 摄像头已创建 - File: camera.py, Line: 18, Func: create
+2025-02-14 15:14:15,349 - root - INFO - 摄像头已创建 - File: camera.py, Line: 18, Func: create
+2025-02-14 15:14:53,749 - root - INFO - 初始化完成 - File: main.py, Line: 12, Func: main
+2025-02-14 15:14:54,197 - root - INFO - 摄像头已创建 - File: camera.py, Line: 18, Func: create
+2025-02-14 15:14:54,197 - root - INFO - 摄像头已创建 - File: camera.py, Line: 18, Func: create
+2025-02-14 15:18:13,430 - root - INFO - 初始化完成 - File: main.py, Line: 12, Func: main
+2025-02-14 15:18:13,991 - root - INFO - 摄像头已创建 - File: camera.py, Line: 18, Func: create
+2025-02-14 15:18:13,991 - root - INFO - 摄像头已创建 - File: camera.py, Line: 18, Func: create
+2025-02-14 15:18:26,650 - root - INFO - 初始化完成 - File: main.py, Line: 12, Func: main
+2025-02-14 15:18:27,346 - root - INFO - 摄像头已创建 - File: camera.py, Line: 18, Func: create
+2025-02-14 15:18:27,346 - root - INFO - 摄像头已创建 - File: camera.py, Line: 18, Func: create
+2025-02-14 15:21:56,763 - root - INFO - 初始化完成 - File: main.py, Line: 12, Func: main
+2025-02-14 15:21:57,371 - root - INFO - 摄像头已创建 - File: camera.py, Line: 18, Func: create
+2025-02-14 15:21:57,371 - root - INFO - 摄像头已创建 - File: camera.py, Line: 18, Func: create
+2025-02-14 15:35:42,593 - root - INFO - 初始化完成 - File: main.py, Line: 12, Func: main
+2025-02-14 15:35:43,324 - root - INFO - 摄像头已创建 - File: camera.py, Line: 18, Func: create
+2025-02-14 15:35:43,324 - root - INFO - 摄像头已创建 - File: camera.py, Line: 18, Func: create
+2025-02-14 15:38:05,469 - root - INFO - 初始化完成 - File: main.py, Line: 12, Func: main
+2025-02-14 15:38:06,122 - root - INFO - 摄像头已创建 - File: camera.py, Line: 18, Func: create
+2025-02-14 15:38:06,122 - root - INFO - 摄像头已创建 - File: camera.py, Line: 18, Func: create
+2025-02-14 15:39:55,855 - root - INFO - 初始化完成 - File: main.py, Line: 12, Func: main
+2025-02-14 15:39:56,413 - root - INFO - 摄像头已创建 - File: camera.py, Line: 18, Func: create
+2025-02-14 15:39:56,413 - root - INFO - 摄像头已创建 - File: camera.py, Line: 18, Func: create
+2025-02-14 15:41:09,413 - root - INFO - 初始化完成 - File: main.py, Line: 12, Func: main
+2025-02-14 15:41:10,130 - root - INFO - 摄像头已创建 - File: camera.py, Line: 18, Func: create
+2025-02-14 15:41:10,130 - root - INFO - 摄像头已创建 - File: camera.py, Line: 18, Func: create
+2025-02-14 15:43:27,363 - root - INFO - 初始化完成 - File: main.py, Line: 12, Func: main
+2025-02-14 15:43:27,971 - root - INFO - 摄像头已创建 - File: camera.py, Line: 18, Func: create
+2025-02-14 15:43:27,971 - root - INFO - 摄像头已创建 - File: camera.py, Line: 18, Func: create
+2025-02-14 15:43:51,411 - root - INFO - 初始化完成 - File: main.py, Line: 12, Func: main
+2025-02-14 15:43:52,039 - root - INFO - 摄像头已创建 - File: camera.py, Line: 18, Func: create
+2025-02-14 15:43:52,039 - root - INFO - 摄像头已创建 - File: camera.py, Line: 18, Func: create
+2025-02-14 15:49:46,652 - root - INFO - 初始化完成 - File: main.py, Line: 12, Func: main
+2025-02-14 15:49:47,321 - root - INFO - 摄像头已创建 - File: camera.py, Line: 18, Func: create
+2025-02-14 15:49:47,321 - root - INFO - 摄像头已创建 - File: camera.py, Line: 18, Func: create
+2025-02-14 15:50:21,528 - root - INFO - 初始化完成 - File: main.py, Line: 12, Func: main
+2025-02-14 15:50:22,065 - root - INFO - 摄像头已创建 - File: camera.py, Line: 18, Func: create
+2025-02-14 15:50:22,065 - root - INFO - 摄像头已创建 - File: camera.py, Line: 18, Func: create
+2025-02-14 15:51:02,514 - root - INFO - 初始化完成 - File: main.py, Line: 12, Func: main
+2025-02-14 15:51:03,091 - root - INFO - 摄像头已创建 - File: camera.py, Line: 18, Func: create
+2025-02-14 15:51:03,091 - root - INFO - 摄像头已创建 - File: camera.py, Line: 18, Func: create
+2025-02-14 15:51:36,299 - root - INFO - 初始化完成 - File: main.py, Line: 12, Func: main
+2025-02-14 15:51:37,092 - root - INFO - 摄像头已创建 - File: camera.py, Line: 18, Func: create
+2025-02-14 15:51:37,092 - root - INFO - 摄像头已创建 - File: camera.py, Line: 18, Func: create
+2025-02-14 15:52:52,668 - root - INFO - 初始化完成 - File: main.py, Line: 12, Func: main
+2025-02-14 15:52:53,273 - root - INFO - 摄像头已创建 - File: camera.py, Line: 18, Func: create
+2025-02-14 15:52:53,273 - root - INFO - 摄像头已创建 - File: camera.py, Line: 18, Func: create
+2025-02-14 15:53:07,223 - root - INFO - 初始化完成 - File: main.py, Line: 12, Func: main
+2025-02-14 15:53:07,728 - root - INFO - 摄像头已创建 - File: camera.py, Line: 18, Func: create
+2025-02-14 15:53:07,728 - root - INFO - 摄像头已创建 - File: camera.py, Line: 18, Func: create
+2025-02-14 15:53:20,653 - root - INFO - 初始化完成 - File: main.py, Line: 12, Func: main
+2025-02-14 15:53:21,165 - root - INFO - 摄像头已创建 - File: camera.py, Line: 18, Func: create
+2025-02-14 15:53:21,165 - root - INFO - 摄像头已创建 - File: camera.py, Line: 18, Func: create
+2025-02-14 15:53:36,423 - root - INFO - 初始化完成 - File: main.py, Line: 12, Func: main
+2025-02-14 15:53:37,044 - root - INFO - 摄像头已创建 - File: camera.py, Line: 18, Func: create
+2025-02-14 15:53:37,044 - root - INFO - 摄像头已创建 - File: camera.py, Line: 18, Func: create
+2025-02-14 15:53:49,716 - root - INFO - 初始化完成 - File: main.py, Line: 12, Func: main
+2025-02-14 15:53:50,189 - root - INFO - 摄像头已创建 - File: camera.py, Line: 18, Func: create
+2025-02-14 15:53:50,189 - root - INFO - 摄像头已创建 - File: camera.py, Line: 18, Func: create
+2025-02-14 15:54:52,641 - root - INFO - 初始化完成 - File: main.py, Line: 12, Func: main
+2025-02-14 15:54:53,222 - root - INFO - 摄像头已创建 - File: camera.py, Line: 18, Func: create
+2025-02-14 15:54:53,222 - root - INFO - 摄像头已创建 - File: camera.py, Line: 18, Func: create
+2025-02-14 15:55:54,886 - root - INFO - 初始化完成 - File: main.py, Line: 12, Func: main
+2025-02-14 15:55:55,515 - root - INFO - 摄像头已创建 - File: camera.py, Line: 18, Func: create
+2025-02-14 15:55:55,515 - root - INFO - 摄像头已创建 - File: camera.py, Line: 18, Func: create
+2025-02-14 15:56:19,989 - root - INFO - 初始化完成 - File: main.py, Line: 12, Func: main
+2025-02-14 15:56:20,498 - root - INFO - 摄像头已创建 - File: camera.py, Line: 18, Func: create
+2025-02-14 15:56:20,498 - root - INFO - 摄像头已创建 - File: camera.py, Line: 18, Func: create
+2025-02-14 15:56:48,607 - root - INFO - 初始化完成 - File: main.py, Line: 12, Func: main
+2025-02-14 15:56:49,306 - root - INFO - 摄像头已创建 - File: camera.py, Line: 18, Func: create
+2025-02-14 15:56:49,306 - root - INFO - 摄像头已创建 - File: camera.py, Line: 18, Func: create
+2025-02-14 15:58:12,073 - root - INFO - 初始化完成 - File: main.py, Line: 12, Func: main
+2025-02-14 15:58:12,792 - root - INFO - 摄像头已创建 - File: camera.py, Line: 18, Func: create
+2025-02-14 15:58:12,792 - root - INFO - 摄像头已创建 - File: camera.py, Line: 18, Func: create
+2025-02-14 15:59:49,037 - root - INFO - 摄像头已创建 - File: camera.py, Line: 18, Func: create
+2025-02-14 16:00:25,591 - root - INFO - 摄像头已创建 - File: camera.py, Line: 18, Func: create
+2025-02-14 16:01:33,357 - root - INFO - 摄像头已创建 - File: camera.py, Line: 18, Func: create
+2025-02-14 16:03:54,935 - root - INFO - 摄像头已创建 - File: camera.py, Line: 18, Func: create
+2025-02-14 16:04:43,216 - root - INFO - 摄像头已创建 - File: camera.py, Line: 18, Func: create
+2025-02-14 16:05:30,732 - root - INFO - 摄像头已创建 - File: camera.py, Line: 18, Func: create
+2025-02-14 16:07:38,961 - root - INFO - 摄像头已创建 - File: camera.py, Line: 18, Func: create
+2025-02-14 16:07:55,218 - root - INFO - 摄像头已创建 - File: camera.py, Line: 18, Func: create
+2025-02-14 16:08:32,701 - root - INFO - 摄像头已创建 - File: camera.py, Line: 18, Func: create
+2025-02-14 16:08:53,982 - root - INFO - 摄像头已创建 - File: camera.py, Line: 18, Func: create
+2025-02-14 16:09:56,119 - root - INFO - 摄像头已创建 - File: camera.py, Line: 18, Func: create
+2025-02-14 16:13:25,969 - root - INFO - 摄像头已创建 - File: camera.py, Line: 18, Func: create
+2025-02-14 16:14:00,092 - root - INFO - 摄像头已创建 - File: camera.py, Line: 18, Func: create
+2025-02-14 16:14:22,031 - root - INFO - 摄像头已创建 - File: camera.py, Line: 18, Func: create
+2025-02-14 16:16:54,912 - root - INFO - 摄像头已创建 - File: camera.py, Line: 18, Func: create
+2025-02-14 16:18:17,656 - root - INFO - 摄像头已创建 - File: camera.py, Line: 18, Func: create
+2025-02-14 16:19:06,702 - root - INFO - 摄像头已创建 - File: camera.py, Line: 18, Func: create
+2025-02-14 16:19:45,283 - root - INFO - 摄像头已创建 - File: camera.py, Line: 18, Func: create
+2025-02-14 16:19:51,851 - root - INFO - 摄像头已创建 - File: camera.py, Line: 18, Func: create
+2025-02-14 16:20:40,476 - root - INFO - 摄像头已创建 - File: camera.py, Line: 18, Func: create
+2025-02-14 16:23:28,808 - root - INFO - 摄像头已创建 - File: camera.py, Line: 18, Func: create
+2025-02-14 16:23:48,151 - root - INFO - 摄像头已创建 - File: camera.py, Line: 18, Func: create
+2025-02-14 16:24:34,718 - root - INFO - 摄像头已创建 - File: camera.py, Line: 18, Func: create
+2025-02-14 16:25:50,136 - root - INFO - 摄像头已创建 - File: camera.py, Line: 18, Func: create
+2025-02-14 16:25:50,136 - root - INFO - 创建 人脸创建器 - File: face_detector.py, Line: 24, Func: __init__
+2025-02-14 16:25:50,136 - root - INFO - 创建 人脸创建器 - File: face_detector.py, Line: 24, Func: __init__
+2025-02-14 21:34:33,063 - root - INFO - 摄像头已创建 - File: camera.py, Line: 18, Func: create
+2025-02-14 21:34:33,064 - root - INFO - 创建 人脸创建器 - File: face_detector.py, Line: 24, Func: __init__
+2025-02-14 21:34:33,064 - root - INFO - 创建 人脸创建器 - File: face_detector.py, Line: 24, Func: __init__
+2025-02-14 21:35:35,886 - root - INFO - 摄像头已创建 - File: camera.py, Line: 18, Func: create
+2025-02-14 21:35:35,886 - root - INFO - 创建 人脸创建器 - File: face_detector.py, Line: 24, Func: __init__
+2025-02-14 21:35:35,886 - root - INFO - 创建 人脸创建器 - File: face_detector.py, Line: 24, Func: __init__
+2025-02-14 21:37:04,489 - root - INFO - 摄像头已创建 - File: camera.py, Line: 18, Func: create
+2025-02-14 21:39:04,547 - root - INFO - 摄像头已创建 - File: camera.py, Line: 18, Func: create
