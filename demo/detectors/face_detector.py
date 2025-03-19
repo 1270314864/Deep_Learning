@@ -39,9 +39,8 @@ class FaceDetector:
         self.known_face_encodings = [
             load_face_encoding("./resource/image/obama.jpg"),
             load_face_encoding("./resource/image/biden.jpg"),
-            load_face_encoding("./resource/image/jlw_face.jpg"),
         ]
-        self.known_face_names = ["Barack Obama", "Joe Biden", "Liang wei Jiang"]
+        self.known_face_names = ["Barack Obama", "Joe Biden"]
 
     def detect(self, frame):
         if frame is None:
