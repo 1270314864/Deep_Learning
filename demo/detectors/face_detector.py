@@ -5,9 +5,28 @@ import face_recognition
 import dlib
 from imutils import face_utils
 import numpy as np
+import os
 
 from models.handle_mouth import HandleMouth
 from models.handle_eyes import HandleEyes
+
+
+def get_image_files(directory):
+    """获取指定目录下的所有图片文件"""
+    image_extensions = (".jpg", ".jpeg", ".png", ".bmp")
+    image_files = []
+    image_names = []
+
+    for filename in os.listdir(directory):
+        if filename.lower().endswith(image_extensions):
+            # 获取文件名（不含扩展名）作为人脸名称
+            name = os.path.splitext(filename)[0]
+            # 将文件名中的下划线替换为空格，使其更易读
+            name = name.replace("_", " ").title()
+            image_files.append(os.path.join(directory, filename))
+            image_names.append(name)
+
+    return image_files, image_names
 
 
 class FaceDetector:
@@ -36,11 +55,20 @@ class FaceDetector:
         self.face_encodings = []  # 存储人脸编码
         self.face_names = []  # 存储匹配到的人脸名称
         self.process_this_frame = True  # 控制每帧是否处理（优化性能）
-        self.known_face_encodings = [
-            load_face_encoding("./resource/image/obama.jpg"),
-            load_face_encoding("./resource/image/biden.jpg"),
-        ]
-        self.known_face_names = ["Barack Obama", "Joe Biden"]
+
+        # 获取所有图片文件和人脸名称
+        image_dir = "./resource/image"
+        image_files, self.known_face_names = get_image_files(image_dir)
+
+        # 加载所有人脸编码
+        self.known_face_encodings = []
+        for image_file in image_files:
+            try:
+                encoding = load_face_encoding(image_file)
+                self.known_face_encodings.append(encoding)
+                self.logger.info(f"成功加载人脸图片: {image_file}")
+            except Exception as e:
+                self.logger.error(f"加载人脸图片失败 {image_file}: {str(e)}")
 
     def detect(self, frame):
         if frame is None:
@@ -102,7 +130,7 @@ class FaceDetector:
                     name = self.known_face_names[best_match_index]
                 self.face_names.append(name)
 
-        self.process_this_frame = not self.process_this_frame  # 控制处理每帧的开关
+        self.process_this_frame = not self.process_this_frame
 
         # 显示结果
         for (top, right, bottom, left), name in zip(

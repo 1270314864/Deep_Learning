@@ -557,3 +557,204 @@
 2025-03-19 13:43:30,656 - root - INFO - 程序结束 - File: main.py, Line: 38, Func: main
 2025-03-19 13:43:30,656 - root - INFO - 程序结束 - File: main.py, Line: 38, Func: main
 2025-03-19 13:43:30,656 - root - INFO - 程序结束 - File: main.py, Line: 38, Func: main
+2025-03-19 14:28:10,770 - root - INFO - 程序启动 - File: main.py, Line: 17, Func: main
+2025-03-19 14:28:11,402 - root - INFO - 摄像头已创建 - File: camera.py, Line: 27, Func: create
+2025-03-19 14:28:11,402 - root - INFO - 摄像头已创建 - File: camera.py, Line: 27, Func: create
+2025-03-19 14:28:11,408 - root - INFO - 创建 人脸创建器 - File: face_detector.py, Line: 36, Func: __init__
+2025-03-19 14:28:11,408 - root - INFO - 创建 人脸创建器 - File: face_detector.py, Line: 36, Func: __init__
+2025-03-19 14:28:11,408 - root - INFO - 创建 人脸创建器 - File: face_detector.py, Line: 36, Func: __init__
+2025-03-19 14:28:11,408 - root - INFO - CUDA不可用，使用CPU模式 - File: face_detector.py, Line: 48, Func: __init__
+2025-03-19 14:28:11,408 - root - INFO - CUDA不可用，使用CPU模式 - File: face_detector.py, Line: 48, Func: __init__
+2025-03-19 14:28:11,408 - root - INFO - CUDA不可用，使用CPU模式 - File: face_detector.py, Line: 48, Func: __init__
+2025-03-19 14:28:13,420 - root - INFO - 成功加载人脸图片: ./resource/image\biden.jpg - File: face_detector.py, Line: 69, Func: __init__
+2025-03-19 14:28:13,420 - root - INFO - 成功加载人脸图片: ./resource/image\biden.jpg - File: face_detector.py, Line: 69, Func: __init__
+2025-03-19 14:28:13,420 - root - INFO - 成功加载人脸图片: ./resource/image\biden.jpg - File: face_detector.py, Line: 69, Func: __init__
+2025-03-19 14:28:13,480 - root - INFO - 成功加载人脸图片: ./resource/image\jlw_face.jpg - File: face_detector.py, Line: 69, Func: __init__
+2025-03-19 14:28:13,480 - root - INFO - 成功加载人脸图片: ./resource/image\jlw_face.jpg - File: face_detector.py, Line: 69, Func: __init__
+2025-03-19 14:28:13,480 - root - INFO - 成功加载人脸图片: ./resource/image\jlw_face.jpg - File: face_detector.py, Line: 69, Func: __init__
+2025-03-19 14:28:18,695 - root - ERROR - 加载人脸图片失败 ./resource/image\jlw_face2.jpg: list index out of range - File: face_detector.py, Line: 71, Func: __init__
+2025-03-19 14:28:18,695 - root - ERROR - 加载人脸图片失败 ./resource/image\jlw_face2.jpg: list index out of range - File: face_detector.py, Line: 71, Func: __init__
+2025-03-19 14:28:18,695 - root - ERROR - 加载人脸图片失败 ./resource/image\jlw_face2.jpg: list index out of range - File: face_detector.py, Line: 71, Func: __init__
+2025-03-19 14:28:23,888 - root - INFO - 成功加载人脸图片: ./resource/image\jlw_face3.jpg - File: face_detector.py, Line: 69, Func: __init__
+2025-03-19 14:28:23,888 - root - INFO - 成功加载人脸图片: ./resource/image\jlw_face3.jpg - File: face_detector.py, Line: 69, Func: __init__
+2025-03-19 14:28:23,888 - root - INFO - 成功加载人脸图片: ./resource/image\jlw_face3.jpg - File: face_detector.py, Line: 69, Func: __init__
+2025-03-19 14:28:24,259 - root - INFO - 成功加载人脸图片: ./resource/image\jlw_face4.jpg - File: face_detector.py, Line: 69, Func: __init__
+2025-03-19 14:28:24,259 - root - INFO - 成功加载人脸图片: ./resource/image\jlw_face4.jpg - File: face_detector.py, Line: 69, Func: __init__
+2025-03-19 14:28:24,259 - root - INFO - 成功加载人脸图片: ./resource/image\jlw_face4.jpg - File: face_detector.py, Line: 69, Func: __init__
+2025-03-19 14:28:24,733 - root - INFO - 成功加载人脸图片: ./resource/image\obama.jpg - File: face_detector.py, Line: 69, Func: __init__
+2025-03-19 14:28:24,733 - root - INFO - 成功加载人脸图片: ./resource/image\obama.jpg - File: face_detector.py, Line: 69, Func: __init__
+2025-03-19 14:28:24,733 - root - INFO - 成功加载人脸图片: ./resource/image\obama.jpg - File: face_detector.py, Line: 69, Func: __init__
+2025-03-19 14:28:24,733 - root - INFO - 开始处理视频流 - File: main.py, Line: 33, Func: main
+2025-03-19 14:28:24,733 - root - INFO - 开始处理视频流 - File: main.py, Line: 33, Func: main
+2025-03-19 14:28:24,733 - root - INFO - 开始处理视频流 - File: main.py, Line: 33, Func: main
+2025-03-19 14:28:33,327 - root - INFO - 程序结束 - File: main.py, Line: 38, Func: main
+2025-03-19 14:28:33,327 - root - INFO - 程序结束 - File: main.py, Line: 38, Func: main
+2025-03-19 14:28:33,327 - root - INFO - 程序结束 - File: main.py, Line: 38, Func: main
+2025-03-19 14:30:14,164 - root - INFO - 程序启动 - File: main.py, Line: 17, Func: main
+2025-03-19 14:30:14,793 - root - INFO - 摄像头已创建 - File: camera.py, Line: 27, Func: create
+2025-03-19 14:30:14,793 - root - INFO - 摄像头已创建 - File: camera.py, Line: 27, Func: create
+2025-03-19 14:30:14,800 - root - INFO - 创建 人脸创建器 - File: face_detector.py, Line: 36, Func: __init__
+2025-03-19 14:30:14,800 - root - INFO - 创建 人脸创建器 - File: face_detector.py, Line: 36, Func: __init__
+2025-03-19 14:30:14,800 - root - INFO - 创建 人脸创建器 - File: face_detector.py, Line: 36, Func: __init__
+2025-03-19 14:30:14,800 - root - INFO - CUDA不可用，使用CPU模式 - File: face_detector.py, Line: 48, Func: __init__
+2025-03-19 14:30:14,800 - root - INFO - CUDA不可用，使用CPU模式 - File: face_detector.py, Line: 48, Func: __init__
+2025-03-19 14:30:14,800 - root - INFO - CUDA不可用，使用CPU模式 - File: face_detector.py, Line: 48, Func: __init__
+2025-03-19 14:30:16,751 - root - INFO - 成功加载人脸图片: ./resource/image\biden.jpg - File: face_detector.py, Line: 69, Func: __init__
+2025-03-19 14:30:16,751 - root - INFO - 成功加载人脸图片: ./resource/image\biden.jpg - File: face_detector.py, Line: 69, Func: __init__
+2025-03-19 14:30:16,751 - root - INFO - 成功加载人脸图片: ./resource/image\biden.jpg - File: face_detector.py, Line: 69, Func: __init__
+2025-03-19 14:30:16,811 - root - INFO - 成功加载人脸图片: ./resource/image\jlw_face.jpg - File: face_detector.py, Line: 69, Func: __init__
+2025-03-19 14:30:16,811 - root - INFO - 成功加载人脸图片: ./resource/image\jlw_face.jpg - File: face_detector.py, Line: 69, Func: __init__
+2025-03-19 14:30:16,811 - root - INFO - 成功加载人脸图片: ./resource/image\jlw_face.jpg - File: face_detector.py, Line: 69, Func: __init__
+2025-03-19 14:30:22,008 - root - ERROR - 加载人脸图片失败 ./resource/image\jlw_face2.jpg: list index out of range - File: face_detector.py, Line: 71, Func: __init__
+2025-03-19 14:30:22,008 - root - ERROR - 加载人脸图片失败 ./resource/image\jlw_face2.jpg: list index out of range - File: face_detector.py, Line: 71, Func: __init__
+2025-03-19 14:30:22,008 - root - ERROR - 加载人脸图片失败 ./resource/image\jlw_face2.jpg: list index out of range - File: face_detector.py, Line: 71, Func: __init__
+2025-03-19 14:30:27,212 - root - INFO - 成功加载人脸图片: ./resource/image\jlw_face3.jpg - File: face_detector.py, Line: 69, Func: __init__
+2025-03-19 14:30:27,212 - root - INFO - 成功加载人脸图片: ./resource/image\jlw_face3.jpg - File: face_detector.py, Line: 69, Func: __init__
+2025-03-19 14:30:27,212 - root - INFO - 成功加载人脸图片: ./resource/image\jlw_face3.jpg - File: face_detector.py, Line: 69, Func: __init__
+2025-03-19 14:30:27,571 - root - INFO - 成功加载人脸图片: ./resource/image\jlw_face4.jpg - File: face_detector.py, Line: 69, Func: __init__
+2025-03-19 14:30:27,571 - root - INFO - 成功加载人脸图片: ./resource/image\jlw_face4.jpg - File: face_detector.py, Line: 69, Func: __init__
+2025-03-19 14:30:27,571 - root - INFO - 成功加载人脸图片: ./resource/image\jlw_face4.jpg - File: face_detector.py, Line: 69, Func: __init__
+2025-03-19 14:30:28,044 - root - INFO - 成功加载人脸图片: ./resource/image\obama.jpg - File: face_detector.py, Line: 69, Func: __init__
+2025-03-19 14:30:28,044 - root - INFO - 成功加载人脸图片: ./resource/image\obama.jpg - File: face_detector.py, Line: 69, Func: __init__
+2025-03-19 14:30:28,044 - root - INFO - 成功加载人脸图片: ./resource/image\obama.jpg - File: face_detector.py, Line: 69, Func: __init__
+2025-03-19 14:30:28,044 - root - INFO - 开始处理视频流 - File: main.py, Line: 33, Func: main
+2025-03-19 14:30:28,044 - root - INFO - 开始处理视频流 - File: main.py, Line: 33, Func: main
+2025-03-19 14:30:28,044 - root - INFO - 开始处理视频流 - File: main.py, Line: 33, Func: main
+2025-03-19 14:30:39,371 - root - INFO - 程序结束 - File: main.py, Line: 38, Func: main
+2025-03-19 14:30:39,371 - root - INFO - 程序结束 - File: main.py, Line: 38, Func: main
+2025-03-19 14:30:39,371 - root - INFO - 程序结束 - File: main.py, Line: 38, Func: main
+2025-03-19 14:32:05,993 - root - INFO - 程序启动 - File: main.py, Line: 17, Func: main
+2025-03-19 14:32:06,645 - root - INFO - 摄像头已创建 - File: camera.py, Line: 27, Func: create
+2025-03-19 14:32:06,645 - root - INFO - 摄像头已创建 - File: camera.py, Line: 27, Func: create
+2025-03-19 14:32:06,652 - root - INFO - 创建 人脸创建器 - File: face_detector.py, Line: 36, Func: __init__
+2025-03-19 14:32:06,652 - root - INFO - 创建 人脸创建器 - File: face_detector.py, Line: 36, Func: __init__
+2025-03-19 14:32:06,652 - root - INFO - 创建 人脸创建器 - File: face_detector.py, Line: 36, Func: __init__
+2025-03-19 14:32:06,652 - root - INFO - CUDA不可用，使用CPU模式 - File: face_detector.py, Line: 48, Func: __init__
+2025-03-19 14:32:06,652 - root - INFO - CUDA不可用，使用CPU模式 - File: face_detector.py, Line: 48, Func: __init__
+2025-03-19 14:32:06,652 - root - INFO - CUDA不可用，使用CPU模式 - File: face_detector.py, Line: 48, Func: __init__
+2025-03-19 14:32:08,880 - root - INFO - 成功加载人脸图片: ./resource/image\biden.jpg - File: face_detector.py, Line: 73, Func: __init__
+2025-03-19 14:32:08,880 - root - INFO - 成功加载人脸图片: ./resource/image\biden.jpg - File: face_detector.py, Line: 73, Func: __init__
+2025-03-19 14:32:08,880 - root - INFO - 成功加载人脸图片: ./resource/image\biden.jpg - File: face_detector.py, Line: 73, Func: __init__
+2025-03-19 14:32:08,941 - root - INFO - 成功加载人脸图片: ./resource/image\jlw_face.jpg - File: face_detector.py, Line: 73, Func: __init__
+2025-03-19 14:32:08,941 - root - INFO - 成功加载人脸图片: ./resource/image\jlw_face.jpg - File: face_detector.py, Line: 73, Func: __init__
+2025-03-19 14:32:08,941 - root - INFO - 成功加载人脸图片: ./resource/image\jlw_face.jpg - File: face_detector.py, Line: 73, Func: __init__
+2025-03-19 14:32:14,204 - root - ERROR - 加载人脸图片失败 ./resource/image\jlw_face2.jpg: list index out of range - File: face_detector.py, Line: 75, Func: __init__
+2025-03-19 14:32:14,204 - root - ERROR - 加载人脸图片失败 ./resource/image\jlw_face2.jpg: list index out of range - File: face_detector.py, Line: 75, Func: __init__
+2025-03-19 14:32:14,204 - root - ERROR - 加载人脸图片失败 ./resource/image\jlw_face2.jpg: list index out of range - File: face_detector.py, Line: 75, Func: __init__
+2025-03-19 14:32:19,497 - root - INFO - 成功加载人脸图片: ./resource/image\jlw_face3.jpg - File: face_detector.py, Line: 73, Func: __init__
+2025-03-19 14:32:19,497 - root - INFO - 成功加载人脸图片: ./resource/image\jlw_face3.jpg - File: face_detector.py, Line: 73, Func: __init__
+2025-03-19 14:32:19,497 - root - INFO - 成功加载人脸图片: ./resource/image\jlw_face3.jpg - File: face_detector.py, Line: 73, Func: __init__
+2025-03-19 14:32:19,844 - root - INFO - 成功加载人脸图片: ./resource/image\jlw_face4.jpg - File: face_detector.py, Line: 73, Func: __init__
+2025-03-19 14:32:19,844 - root - INFO - 成功加载人脸图片: ./resource/image\jlw_face4.jpg - File: face_detector.py, Line: 73, Func: __init__
+2025-03-19 14:32:19,844 - root - INFO - 成功加载人脸图片: ./resource/image\jlw_face4.jpg - File: face_detector.py, Line: 73, Func: __init__
+2025-03-19 14:32:20,299 - root - INFO - 成功加载人脸图片: ./resource/image\obama.jpg - File: face_detector.py, Line: 73, Func: __init__
+2025-03-19 14:32:20,299 - root - INFO - 成功加载人脸图片: ./resource/image\obama.jpg - File: face_detector.py, Line: 73, Func: __init__
+2025-03-19 14:32:20,299 - root - INFO - 成功加载人脸图片: ./resource/image\obama.jpg - File: face_detector.py, Line: 73, Func: __init__
+2025-03-19 14:32:20,299 - root - INFO - 开始处理视频流 - File: main.py, Line: 33, Func: main
+2025-03-19 14:32:20,299 - root - INFO - 开始处理视频流 - File: main.py, Line: 33, Func: main
+2025-03-19 14:32:20,299 - root - INFO - 开始处理视频流 - File: main.py, Line: 33, Func: main
+2025-03-19 14:32:33,350 - root - INFO - 程序结束 - File: main.py, Line: 38, Func: main
+2025-03-19 14:32:33,350 - root - INFO - 程序结束 - File: main.py, Line: 38, Func: main
+2025-03-19 14:32:33,350 - root - INFO - 程序结束 - File: main.py, Line: 38, Func: main
+2025-03-19 14:35:20,446 - root - INFO - 程序启动 - File: main.py, Line: 17, Func: main
+2025-03-19 14:35:21,095 - root - INFO - 摄像头已创建 - File: camera.py, Line: 27, Func: create
+2025-03-19 14:35:21,095 - root - INFO - 摄像头已创建 - File: camera.py, Line: 27, Func: create
+2025-03-19 14:35:21,102 - root - INFO - 创建 人脸创建器 - File: face_detector.py, Line: 39, Func: __init__
+2025-03-19 14:35:21,102 - root - INFO - 创建 人脸创建器 - File: face_detector.py, Line: 39, Func: __init__
+2025-03-19 14:35:21,102 - root - INFO - 创建 人脸创建器 - File: face_detector.py, Line: 39, Func: __init__
+2025-03-19 14:35:21,103 - root - INFO - CUDA不可用，使用CPU模式 - File: face_detector.py, Line: 51, Func: __init__
+2025-03-19 14:35:21,103 - root - INFO - CUDA不可用，使用CPU模式 - File: face_detector.py, Line: 51, Func: __init__
+2025-03-19 14:35:21,103 - root - INFO - CUDA不可用，使用CPU模式 - File: face_detector.py, Line: 51, Func: __init__
+2025-03-19 14:35:21,923 - root - INFO - 缓存文件不存在，开始计算人脸编码... - File: face_detector.py, Line: 87, Func: load_face_encodings_with_cache
+2025-03-19 14:35:21,923 - root - INFO - 缓存文件不存在，开始计算人脸编码... - File: face_detector.py, Line: 87, Func: load_face_encodings_with_cache
+2025-03-19 14:35:21,923 - root - INFO - 缓存文件不存在，开始计算人脸编码... - File: face_detector.py, Line: 87, Func: load_face_encodings_with_cache
+2025-03-19 14:36:54,281 - root - INFO - 程序启动 - File: main.py, Line: 17, Func: main
+2025-03-19 14:36:54,921 - root - INFO - 摄像头已创建 - File: camera.py, Line: 27, Func: create
+2025-03-19 14:36:54,921 - root - INFO - 摄像头已创建 - File: camera.py, Line: 27, Func: create
+2025-03-19 14:36:54,928 - root - INFO - 创建 人脸创建器 - File: face_detector.py, Line: 36, Func: __init__
+2025-03-19 14:36:54,928 - root - INFO - 创建 人脸创建器 - File: face_detector.py, Line: 36, Func: __init__
+2025-03-19 14:36:54,928 - root - INFO - 创建 人脸创建器 - File: face_detector.py, Line: 36, Func: __init__
+2025-03-19 14:36:54,928 - root - INFO - CUDA不可用，使用CPU模式 - File: face_detector.py, Line: 48, Func: __init__
+2025-03-19 14:36:54,928 - root - INFO - CUDA不可用，使用CPU模式 - File: face_detector.py, Line: 48, Func: __init__
+2025-03-19 14:36:54,928 - root - INFO - CUDA不可用，使用CPU模式 - File: face_detector.py, Line: 48, Func: __init__
+2025-03-19 14:36:56,936 - root - INFO - 成功加载人脸图片: ./resource/image\biden.jpg - File: face_detector.py, Line: 69, Func: __init__
+2025-03-19 14:36:56,936 - root - INFO - 成功加载人脸图片: ./resource/image\biden.jpg - File: face_detector.py, Line: 69, Func: __init__
+2025-03-19 14:36:56,936 - root - INFO - 成功加载人脸图片: ./resource/image\biden.jpg - File: face_detector.py, Line: 69, Func: __init__
+2025-03-19 14:36:56,997 - root - INFO - 成功加载人脸图片: ./resource/image\jlw_face.jpg - File: face_detector.py, Line: 69, Func: __init__
+2025-03-19 14:36:56,997 - root - INFO - 成功加载人脸图片: ./resource/image\jlw_face.jpg - File: face_detector.py, Line: 69, Func: __init__
+2025-03-19 14:36:56,997 - root - INFO - 成功加载人脸图片: ./resource/image\jlw_face.jpg - File: face_detector.py, Line: 69, Func: __init__
+2025-03-19 14:37:02,183 - root - ERROR - 加载人脸图片失败 ./resource/image\jlw_face2.jpg: list index out of range - File: face_detector.py, Line: 71, Func: __init__
+2025-03-19 14:37:02,183 - root - ERROR - 加载人脸图片失败 ./resource/image\jlw_face2.jpg: list index out of range - File: face_detector.py, Line: 71, Func: __init__
+2025-03-19 14:37:02,183 - root - ERROR - 加载人脸图片失败 ./resource/image\jlw_face2.jpg: list index out of range - File: face_detector.py, Line: 71, Func: __init__
+2025-03-19 14:37:07,317 - root - INFO - 成功加载人脸图片: ./resource/image\jlw_face3.jpg - File: face_detector.py, Line: 69, Func: __init__
+2025-03-19 14:37:07,317 - root - INFO - 成功加载人脸图片: ./resource/image\jlw_face3.jpg - File: face_detector.py, Line: 69, Func: __init__
+2025-03-19 14:37:07,317 - root - INFO - 成功加载人脸图片: ./resource/image\jlw_face3.jpg - File: face_detector.py, Line: 69, Func: __init__
+2025-03-19 14:37:07,673 - root - INFO - 成功加载人脸图片: ./resource/image\jlw_face4.jpg - File: face_detector.py, Line: 69, Func: __init__
+2025-03-19 14:37:07,673 - root - INFO - 成功加载人脸图片: ./resource/image\jlw_face4.jpg - File: face_detector.py, Line: 69, Func: __init__
+2025-03-19 14:37:07,673 - root - INFO - 成功加载人脸图片: ./resource/image\jlw_face4.jpg - File: face_detector.py, Line: 69, Func: __init__
+2025-03-19 14:37:08,130 - root - INFO - 成功加载人脸图片: ./resource/image\obama.jpg - File: face_detector.py, Line: 69, Func: __init__
+2025-03-19 14:37:08,130 - root - INFO - 成功加载人脸图片: ./resource/image\obama.jpg - File: face_detector.py, Line: 69, Func: __init__
+2025-03-19 14:37:08,130 - root - INFO - 成功加载人脸图片: ./resource/image\obama.jpg - File: face_detector.py, Line: 69, Func: __init__
+2025-03-19 14:37:08,130 - root - INFO - 开始处理视频流 - File: main.py, Line: 33, Func: main
+2025-03-19 14:37:08,130 - root - INFO - 开始处理视频流 - File: main.py, Line: 33, Func: main
+2025-03-19 14:37:08,130 - root - INFO - 开始处理视频流 - File: main.py, Line: 33, Func: main
+2025-03-19 14:37:23,674 - root - INFO - 程序结束 - File: main.py, Line: 38, Func: main
+2025-03-19 14:37:23,674 - root - INFO - 程序结束 - File: main.py, Line: 38, Func: main
+2025-03-19 14:37:23,674 - root - INFO - 程序结束 - File: main.py, Line: 38, Func: main
+2025-03-19 14:39:55,698 - root - INFO - 程序启动 - File: main.py, Line: 17, Func: main
+2025-03-19 14:39:56,332 - root - INFO - 摄像头已创建 - File: camera.py, Line: 27, Func: create
+2025-03-19 14:39:56,332 - root - INFO - 摄像头已创建 - File: camera.py, Line: 27, Func: create
+2025-03-19 14:39:56,341 - root - INFO - 创建 人脸创建器 - File: face_detector.py, Line: 38, Func: __init__
+2025-03-19 14:39:56,341 - root - INFO - 创建 人脸创建器 - File: face_detector.py, Line: 38, Func: __init__
+2025-03-19 14:39:56,341 - root - INFO - 创建 人脸创建器 - File: face_detector.py, Line: 38, Func: __init__
+2025-03-19 14:39:56,341 - root - INFO - CUDA不可用，使用CPU模式 - File: face_detector.py, Line: 50, Func: __init__
+2025-03-19 14:39:56,341 - root - INFO - CUDA不可用，使用CPU模式 - File: face_detector.py, Line: 50, Func: __init__
+2025-03-19 14:39:56,341 - root - INFO - CUDA不可用，使用CPU模式 - File: face_detector.py, Line: 50, Func: __init__
+2025-03-19 14:39:57,147 - root - INFO - 缓存文件不存在，开始计算人脸编码... - File: face_detector.py, Line: 86, Func: load_face_encodings_with_cache
+2025-03-19 14:39:57,147 - root - INFO - 缓存文件不存在，开始计算人脸编码... - File: face_detector.py, Line: 86, Func: load_face_encodings_with_cache
+2025-03-19 14:39:57,147 - root - INFO - 缓存文件不存在，开始计算人脸编码... - File: face_detector.py, Line: 86, Func: load_face_encodings_with_cache
+2025-03-19 14:40:18,369 - root - INFO - 程序启动 - File: main.py, Line: 17, Func: main
+2025-03-19 14:40:18,859 - root - INFO - 摄像头已创建 - File: camera.py, Line: 27, Func: create
+2025-03-19 14:40:18,859 - root - INFO - 摄像头已创建 - File: camera.py, Line: 27, Func: create
+2025-03-19 14:40:18,868 - root - INFO - 创建 人脸创建器 - File: face_detector.py, Line: 38, Func: __init__
+2025-03-19 14:40:18,868 - root - INFO - 创建 人脸创建器 - File: face_detector.py, Line: 38, Func: __init__
+2025-03-19 14:40:18,868 - root - INFO - 创建 人脸创建器 - File: face_detector.py, Line: 38, Func: __init__
+2025-03-19 14:40:18,868 - root - INFO - CUDA不可用，使用CPU模式 - File: face_detector.py, Line: 50, Func: __init__
+2025-03-19 14:40:18,868 - root - INFO - CUDA不可用，使用CPU模式 - File: face_detector.py, Line: 50, Func: __init__
+2025-03-19 14:40:18,868 - root - INFO - CUDA不可用，使用CPU模式 - File: face_detector.py, Line: 50, Func: __init__
+2025-03-19 14:40:19,676 - root - INFO - 缓存文件不存在，开始计算人脸编码... - File: face_detector.py, Line: 86, Func: load_face_encodings_with_cache
+2025-03-19 14:40:19,676 - root - INFO - 缓存文件不存在，开始计算人脸编码... - File: face_detector.py, Line: 86, Func: load_face_encodings_with_cache
+2025-03-19 14:40:19,676 - root - INFO - 缓存文件不存在，开始计算人脸编码... - File: face_detector.py, Line: 86, Func: load_face_encodings_with_cache
+2025-03-19 14:40:48,465 - root - INFO - 程序启动 - File: main.py, Line: 17, Func: main
+2025-03-19 14:40:48,985 - root - INFO - 摄像头已创建 - File: camera.py, Line: 27, Func: create
+2025-03-19 14:40:48,985 - root - INFO - 摄像头已创建 - File: camera.py, Line: 27, Func: create
+2025-03-19 14:40:48,993 - root - INFO - 创建 人脸创建器 - File: face_detector.py, Line: 36, Func: __init__
+2025-03-19 14:40:48,993 - root - INFO - 创建 人脸创建器 - File: face_detector.py, Line: 36, Func: __init__
+2025-03-19 14:40:48,993 - root - INFO - 创建 人脸创建器 - File: face_detector.py, Line: 36, Func: __init__
+2025-03-19 14:40:48,994 - root - INFO - CUDA不可用，使用CPU模式 - File: face_detector.py, Line: 48, Func: __init__
+2025-03-19 14:40:48,994 - root - INFO - CUDA不可用，使用CPU模式 - File: face_detector.py, Line: 48, Func: __init__
+2025-03-19 14:40:48,994 - root - INFO - CUDA不可用，使用CPU模式 - File: face_detector.py, Line: 48, Func: __init__
+2025-03-19 14:40:50,971 - root - INFO - 成功加载人脸图片: ./resource/image\biden.jpg - File: face_detector.py, Line: 69, Func: __init__
+2025-03-19 14:40:50,971 - root - INFO - 成功加载人脸图片: ./resource/image\biden.jpg - File: face_detector.py, Line: 69, Func: __init__
+2025-03-19 14:40:50,971 - root - INFO - 成功加载人脸图片: ./resource/image\biden.jpg - File: face_detector.py, Line: 69, Func: __init__
+2025-03-19 14:40:51,032 - root - INFO - 成功加载人脸图片: ./resource/image\jlw_face.jpg - File: face_detector.py, Line: 69, Func: __init__
+2025-03-19 14:40:51,032 - root - INFO - 成功加载人脸图片: ./resource/image\jlw_face.jpg - File: face_detector.py, Line: 69, Func: __init__
+2025-03-19 14:40:51,032 - root - INFO - 成功加载人脸图片: ./resource/image\jlw_face.jpg - File: face_detector.py, Line: 69, Func: __init__
+2025-03-19 14:40:56,175 - root - ERROR - 加载人脸图片失败 ./resource/image\jlw_face2.jpg: list index out of range - File: face_detector.py, Line: 71, Func: __init__
+2025-03-19 14:40:56,175 - root - ERROR - 加载人脸图片失败 ./resource/image\jlw_face2.jpg: list index out of range - File: face_detector.py, Line: 71, Func: __init__
+2025-03-19 14:40:56,175 - root - ERROR - 加载人脸图片失败 ./resource/image\jlw_face2.jpg: list index out of range - File: face_detector.py, Line: 71, Func: __init__
+2025-03-19 14:41:01,340 - root - INFO - 成功加载人脸图片: ./resource/image\jlw_face3.jpg - File: face_detector.py, Line: 69, Func: __init__
+2025-03-19 14:41:01,340 - root - INFO - 成功加载人脸图片: ./resource/image\jlw_face3.jpg - File: face_detector.py, Line: 69, Func: __init__
+2025-03-19 14:41:01,340 - root - INFO - 成功加载人脸图片: ./resource/image\jlw_face3.jpg - File: face_detector.py, Line: 69, Func: __init__
+2025-03-19 14:41:01,693 - root - INFO - 成功加载人脸图片: ./resource/image\jlw_face4.jpg - File: face_detector.py, Line: 69, Func: __init__
+2025-03-19 14:41:01,693 - root - INFO - 成功加载人脸图片: ./resource/image\jlw_face4.jpg - File: face_detector.py, Line: 69, Func: __init__
+2025-03-19 14:41:01,693 - root - INFO - 成功加载人脸图片: ./resource/image\jlw_face4.jpg - File: face_detector.py, Line: 69, Func: __init__
+2025-03-19 14:41:02,148 - root - INFO - 成功加载人脸图片: ./resource/image\obama.jpg - File: face_detector.py, Line: 69, Func: __init__
+2025-03-19 14:41:02,148 - root - INFO - 成功加载人脸图片: ./resource/image\obama.jpg - File: face_detector.py, Line: 69, Func: __init__
+2025-03-19 14:41:02,148 - root - INFO - 成功加载人脸图片: ./resource/image\obama.jpg - File: face_detector.py, Line: 69, Func: __init__
+2025-03-19 14:41:02,148 - root - INFO - 开始处理视频流 - File: main.py, Line: 33, Func: main
+2025-03-19 14:41:02,148 - root - INFO - 开始处理视频流 - File: main.py, Line: 33, Func: main
+2025-03-19 14:41:02,148 - root - INFO - 开始处理视频流 - File: main.py, Line: 33, Func: main
+2025-03-19 14:41:07,929 - root - INFO - 程序结束 - File: main.py, Line: 38, Func: main
+2025-03-19 14:41:07,929 - root - INFO - 程序结束 - File: main.py, Line: 38, Func: main
+2025-03-19 14:41:07,929 - root - INFO - 程序结束 - File: main.py, Line: 38, Func: main

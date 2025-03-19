@@ -20,30 +20,21 @@ wheels/
 .installed.cfg
 *.egg
 
-# 虚拟环境
-venv/
-env/
-ENV/
-.env
-
-# IDE
-.idea/
-.vscode/
-*.swp
-*.swo
-
-# 日志文件
+# Logs
 *.log
 
-# 系统文件
-.DS_Store
-Thumbs.db
-
-# Cursor IDE
+# IDE
+.vscode/
+.idea/
 .cursor/
 
-# 不需要同步的图片文件
-demo/resource/image/jlw_face.jpg
-demo/resource/image/jlw_face2.jpg
-demo/resource/image/jlw_face3.jpg
-demo/resource/image/jlw_face4.jpg 
+# Environment
+.env
+.venv
+env/
+venv/
+ENV/
+
+# System
+.DS_Store
+Thumbs.db 
