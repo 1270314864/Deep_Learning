@@ -25,7 +25,6 @@ venv/
 env/
 ENV/
 .env
-.venv
 
 # IDE
 .idea/
@@ -35,13 +34,6 @@ ENV/
 
 # 日志文件
 *.log
-logs/
-
-# 模型文件
-*.dat
-*.pkl
-*.h5
-*.model
 
 # 系统文件
 .DS_Store
