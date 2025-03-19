@@ -512,3 +512,48 @@
 2025-02-14 21:35:35,886 - root - INFO - 创建 人脸创建器 - File: face_detector.py, Line: 24, Func: __init__
 2025-02-14 21:37:04,489 - root - INFO - 摄像头已创建 - File: camera.py, Line: 18, Func: create
 2025-02-14 21:39:04,547 - root - INFO - 摄像头已创建 - File: camera.py, Line: 18, Func: create
+2025-03-19 13:29:37,291 - root - INFO - 摄像头已创建 - File: camera.py, Line: 18, Func: create
+2025-03-19 13:29:37,293 - root - INFO - 创建 人脸创建器 - File: face_detector.py, Line: 24, Func: __init__
+2025-03-19 13:29:37,293 - root - INFO - 创建 人脸创建器 - File: face_detector.py, Line: 24, Func: __init__
+2025-03-19 13:34:12,204 - root - INFO - 程序启动 - File: main.py, Line: 16, Func: main
+2025-03-19 13:34:12,819 - root - INFO - 摄像头已创建 - File: camera.py, Line: 18, Func: create
+2025-03-19 13:34:12,819 - root - INFO - 摄像头已创建 - File: camera.py, Line: 18, Func: create
+2025-03-19 13:34:12,820 - root - INFO - 创建 人脸创建器 - File: face_detector.py, Line: 24, Func: __init__
+2025-03-19 13:34:12,820 - root - INFO - 创建 人脸创建器 - File: face_detector.py, Line: 24, Func: __init__
+2025-03-19 13:34:12,820 - root - INFO - 创建 人脸创建器 - File: face_detector.py, Line: 24, Func: __init__
+2025-03-19 13:34:14,595 - root - INFO - 开始处理视频流 - File: main.py, Line: 30, Func: main
+2025-03-19 13:34:14,595 - root - INFO - 开始处理视频流 - File: main.py, Line: 30, Func: main
+2025-03-19 13:34:14,595 - root - INFO - 开始处理视频流 - File: main.py, Line: 30, Func: main
+2025-03-19 13:34:24,420 - root - INFO - 程序结束 - File: main.py, Line: 35, Func: main
+2025-03-19 13:34:24,420 - root - INFO - 程序结束 - File: main.py, Line: 35, Func: main
+2025-03-19 13:34:24,420 - root - INFO - 程序结束 - File: main.py, Line: 35, Func: main
+2025-03-19 13:38:50,730 - root - INFO - 程序启动 - File: main.py, Line: 17, Func: main
+2025-03-19 13:38:51,340 - root - INFO - 摄像头已创建 - File: camera.py, Line: 27, Func: create
+2025-03-19 13:38:51,340 - root - INFO - 摄像头已创建 - File: camera.py, Line: 27, Func: create
+2025-03-19 13:38:51,348 - root - INFO - 创建 人脸创建器 - File: face_detector.py, Line: 17, Func: __init__
+2025-03-19 13:38:51,348 - root - INFO - 创建 人脸创建器 - File: face_detector.py, Line: 17, Func: __init__
+2025-03-19 13:38:51,348 - root - INFO - 创建 人脸创建器 - File: face_detector.py, Line: 17, Func: __init__
+2025-03-19 13:38:51,348 - root - INFO - CUDA不可用，使用CPU模式 - File: face_detector.py, Line: 29, Func: __init__
+2025-03-19 13:38:51,348 - root - INFO - CUDA不可用，使用CPU模式 - File: face_detector.py, Line: 29, Func: __init__
+2025-03-19 13:38:51,348 - root - INFO - CUDA不可用，使用CPU模式 - File: face_detector.py, Line: 29, Func: __init__
+2025-03-19 13:38:53,935 - root - INFO - 开始处理视频流 - File: main.py, Line: 33, Func: main
+2025-03-19 13:38:53,935 - root - INFO - 开始处理视频流 - File: main.py, Line: 33, Func: main
+2025-03-19 13:38:53,935 - root - INFO - 开始处理视频流 - File: main.py, Line: 33, Func: main
+2025-03-19 13:39:03,944 - root - INFO - 程序结束 - File: main.py, Line: 38, Func: main
+2025-03-19 13:39:03,944 - root - INFO - 程序结束 - File: main.py, Line: 38, Func: main
+2025-03-19 13:39:03,944 - root - INFO - 程序结束 - File: main.py, Line: 38, Func: main
+2025-03-19 13:43:06,322 - root - INFO - 程序启动 - File: main.py, Line: 17, Func: main
+2025-03-19 13:43:06,978 - root - INFO - 摄像头已创建 - File: camera.py, Line: 27, Func: create
+2025-03-19 13:43:06,978 - root - INFO - 摄像头已创建 - File: camera.py, Line: 27, Func: create
+2025-03-19 13:43:06,985 - root - INFO - 创建 人脸创建器 - File: face_detector.py, Line: 17, Func: __init__
+2025-03-19 13:43:06,985 - root - INFO - 创建 人脸创建器 - File: face_detector.py, Line: 17, Func: __init__
+2025-03-19 13:43:06,985 - root - INFO - 创建 人脸创建器 - File: face_detector.py, Line: 17, Func: __init__
+2025-03-19 13:43:06,985 - root - INFO - CUDA不可用，使用CPU模式 - File: face_detector.py, Line: 29, Func: __init__
+2025-03-19 13:43:06,985 - root - INFO - CUDA不可用，使用CPU模式 - File: face_detector.py, Line: 29, Func: __init__
+2025-03-19 13:43:06,985 - root - INFO - CUDA不可用，使用CPU模式 - File: face_detector.py, Line: 29, Func: __init__
+2025-03-19 13:43:09,513 - root - INFO - 开始处理视频流 - File: main.py, Line: 33, Func: main
+2025-03-19 13:43:09,513 - root - INFO - 开始处理视频流 - File: main.py, Line: 33, Func: main
+2025-03-19 13:43:09,513 - root - INFO - 开始处理视频流 - File: main.py, Line: 33, Func: main
+2025-03-19 13:43:30,656 - root - INFO - 程序结束 - File: main.py, Line: 38, Func: main
+2025-03-19 13:43:30,656 - root - INFO - 程序结束 - File: main.py, Line: 38, Func: main
+2025-03-19 13:43:30,656 - root - INFO - 程序结束 - File: main.py, Line: 38, Func: main

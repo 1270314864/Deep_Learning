@@ -5,12 +5,21 @@ from utils.logger import Logger
 
 class Camera:
     def __init__(self):
+        # 检查CUDA是否可用
+        self.use_gpu = cv2.cuda.getCudaEnabledDeviceCount() > 0
+        if self.use_gpu:
+            print("CUDA可用，启用GPU加速")
+            # 使用CUDA加速的摄像头捕获
+            self.video_capture = cv2.VideoCapture(0, cv2.CAP_FFMPEG)
+            # 设置CUDA加速
+            self.video_capture.set(cv2.CAP_PROP_BACKEND, cv2.CAP_FFMPEG)
+        else:
+            print("CUDA不可用，使用CPU模式")
+            self.video_capture = cv2.VideoCapture(0)
 
-        # 初始化摄像头，默认使用摄像头 0
-        self.video_capture = cv2.VideoCapture(0)
         # 设置摄像头的分辨率（宽度和高度）
-        self.video_capture.set(cv2.CAP_PROP_FRAME_WIDTH, 1920)  # 设置宽度
-        self.video_capture.set(cv2.CAP_PROP_FRAME_HEIGHT, 1080)  # 设置高度
+        self.video_capture.set(cv2.CAP_PROP_FRAME_WIDTH, 640)  # 设置宽度
+        self.video_capture.set(cv2.CAP_PROP_FRAME_HEIGHT, 480)  # 设置高度
 
     def create(self):
         log = Logger(log_file="app.log", log_level=logging.INFO)
@@ -28,6 +37,14 @@ class Camera:
         if not ret:
             print("无法读取视频帧")
             return None
+
+        # 如果使用GPU，将图像转换为GPU内存
+        if self.use_gpu:
+            gpu_frame = cv2.cuda_GpuMat()
+            gpu_frame.upload(frame)
+            # 在GPU上进行图像处理
+            frame = gpu_frame.download()
+
         return frame
 
     def release(self):
