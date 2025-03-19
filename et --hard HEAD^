@@ -1,0 +1,5 @@
+[33mcommit 2733e1c5daa13850fcd0c98a4ba9eec81b599c65[m[33m ([m[1;36mHEAD -> [m[1;32mmain[m[33m, [m[1;31morigin/main[m[33m, [m[1;31morigin/HEAD[m[33m)[m
+Author: 1270314864 <1270314864@qq.com>
+Date:   Wed Mar 19 14:42:09 2025 +0800
+
+    更新人脸检测器代码，添加.gitignore文件
