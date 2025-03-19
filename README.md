@@ -30,7 +30,7 @@
 
 1. 克隆项目
 ```bash
-git clone https://github.com/yourusername/Deep_Learning.git
+git clone https://github.com/1270314864/Deep_Learning.git
 cd Deep_Learning
 ```
 
@@ -149,6 +149,6 @@ python demo/main.py
 
 ## 联系方式
 
-- 作者：Your Name
-- 邮箱：your.email@example.com
-- 项目主页：https://github.com/yourusername/Deep_Learning 
+- 作者：Johnnnn
+- 邮箱：wei1270314864@163.com
+- 项目主页：https://github.com/1270314864/Deep_Learning  
